@@ -1,0 +1,13 @@
+name: CS598
+channels:
+  - pytorch
+  - conda-forge
+  - nvidia
+  - defaults
+dependencies:
+  - python=3.11
+  - pip
+  - pytorch-cuda=12.1
+  - pytorch==2.1.1
+  - pip:
+      - packaging

@@ -1,0 +1,4 @@
+root ::= stringlist
+ws ::= [ \t\n]*
+string ::= "\""   ([A-Za-z0-9 .?!,':;]*)   "\""
+stringlist ::= "["   ws   string "," ws   string "," ws   string   ws   "]"

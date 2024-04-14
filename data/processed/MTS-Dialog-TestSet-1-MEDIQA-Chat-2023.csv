@@ -1,0 +1,3557 @@
+text
+"Context:
+Doctor: Good afternoon, sir. Did you just have a birthday? I don't have my chart with me right now, the nurse is bringing it.
+Patient: Good afternoon, sir. Yes, I just turned fifty five.
+
+Questions:
+[""What was your recent experience with your father?"", ""Can you explain more about your relationship with your father?"", ""Are there any health issues that run in your family?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: Any medical issues running in your families?
+Patient: Oh yes, stroke.
+
+Questions:
+[""Any other medical issues in your family?"", ""What other medical issues are there in your family?"", ""Can you tell me more about the stroke in your family?""]
+
+Ranked:
+[1, 3, 2]"
+"Context:
+Doctor: Any pain in your muscles?
+Patient: No, no pain.
+Doctor: How about joint pain?
+Patient: Um no, I don't feel any joint pain.
+Doctor: Okay, good.
+
+Questions:
+[""How does your range of motion compare with normal?"", ""Can you rate your pain on a scale from 1 to 10?"", ""Does your pain get worse with activity?""]
+
+Ranked:
+[3, 1, 2]"
+"Context:
+Doctor: Anyone in family with any blood or heart issues?
+Patient: No.
+
+Questions:
+[""Are there any other family members with blood disorders?"", ""Are there any family members with cardiovascular conditions?"", ""Does anyone in your family have a history of blood disorders?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: Can you tell me about your family? Did anyone in your family have any medical problems?
+Patient: Oh yeah. My father died of thoracic aortic aneurysm. He was seventy one years old at that time.
+
+Questions:
+[""Can you tell me about your father's medical history?"", ""How long was he diagnosed before he passed away?"", ""Did he have any other medical issues prior to his passing?""]
+
+Ranked:
+[1, 3, 2]"
+"Context:
+Doctor: It is good to see you again. How have you been?
+Patient: It is good to see you too. I have been good.
+
+Questions:
+[""How's your appetite?"", ""How's your sleep?"", ""How's your mood?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Guest_clinician: How old is the patient?
+Doctor: Seventy seven.
+Guest_clinician: She was sedated with Ativan, correct?
+
+Questions:
+[""What medications did she take prior to hospitalization?"", ""Did she have a history of mental health problems?"", ""Does she have any other health conditions?""]
+
+Ranked:
+[3, 1, 2]"
+"Context:
+Doctor: What is your family medical history?
+Patient: My parents do not have any health conditions. I have two half brothers that are in good health as well.
+
+Questions:
+[""What ages are your half brothers?"", ""What are their health conditions?"", ""Are they living with their mother?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: Are you still working, sir?
+Patient: No, I am retired now. I worked for twenty years in social security administration.
+Patient: Now I just enjoy my life with my wife, we travel a lot. I like to be extremely active.
+Doctor: That's awesome.
+
+Questions:
+[""What activities do you enjoy doing most now that you're retired?"", ""How do you stay active when traveling?"", ""Are you still involved in any organizations or clubs from your work days?""]
+
+Ranked:
+[3, 1, 2]"
+"Context:
+Doctor: Good afternoon, ma'am. Can you tell me more about yourself, please?
+Patient: Well, I'm seventy nine, and I'm an African American women.
+
+Questions:
+[""Did the nurses take your weight?"", ""What is your occupation?"", ""How long have you been a smoker?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: Good afternoon, ma'am. Can you tell me more about yourself, please?
+Patient: Well, I'm seventy nine, and I'm an African American women.
+Doctor: Did the nurses get your height?
+Patient: No, they didn't.
+Doctor: How tall are you?
+Patient: I'm five foot three inches.
+
+Questions:
+[""How tall are you?"", ""How tall are you?"", ""Did the nurses get your weight?""]
+
+Ranked:
+[1, 2, 3]"
+"Context:
+Doctor: Did he get his B C G vaccine?
+Guest_family: Yes, he did back in the Philippines before starting his elementary school.
+Doctor: Okay, did you have his immunization records?
+Guest_family_2: Yes, we submitted it at the front desk.
+
+Questions:
+[""Is he experiencing any other symptoms besides the stomach pain?"", ""Is there a family history of ulcers?"", ""How often does he exercise and eat healthy foods?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: Did he get his B C G vaccine?
+Guest_family: Yes, he did back in the Philippines before starting his elementary school.
+
+Questions:
+[""Could you provide a copy of those records for our records?"", ""What was your son's age at that time?"", ""Were there any adverse reactions reported?""]
+
+Ranked:
+[3, 1, 2]"
+"Context:
+Doctor: What's your living situation like?
+Patient: I uh live alone, but I can count on my family and friends to keep me company.
+
+Questions:
+[""Is it difficult for you to manage your household tasks?"", ""Are your family and friends nearby?"", ""How do they help you?""]
+
+Ranked:
+[3, 1, 2]"
+"Context:
+Doctor: How've you been feeling lately?
+Patient: Good, I guess.
+
+Questions:
+[""How have your symptoms changed over time?"", ""Have you tried any alternative therapies?"", ""What are your concerns about your health?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: Hello, how are you today?
+Patient: I am doing well.
+Doctor: Great. What would you like to bring up today?
+Patient: I have some questions about my liver.
+
+Questions:
+[""What concerns do you have about your liver health?"", ""Have you noticed any changes in your liver function such as jaundice, dark urine or abdominal pain?"", ""Have you been exposed to any toxins that could impact your liver health?""]
+
+Ranked:
+[1, 3, 2]"
+"Context:
+Doctor: Hello, I will ask you a few questions.
+Patient: Hm.
+
+Questions:
+[""How do you feel today?"", ""What did you eat for breakfast this morning?"", ""How do your muscles feel?""]
+
+Ranked:
+[3, 1, 2]"
+"Context:
+Doctor: Did you ever see that your skin is turning blue or greyish in color?
+Patient: Not that I notice.
+
+Questions:
+[""Did you experience shortness of breath?"", ""Have you noticed a change in your appetite?"", ""How is your energy level lately?""]
+
+Ranked:
+[3, 1, 2]"
+"Context:
+Doctor: Any health problems or health conditions?
+Patient: No. I have never had any health issues. Other than why I am why I am her today.
+
+Questions:
+[""What are your family's medical histories?"", ""Have you experienced any significant weight loss recently?"", ""Have you noticed any changes in your bowel habits?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Patient: I am always tired, I don't know what to do.
+
+Questions:
+[""I have a follow up appointment in 2 weeks"", ""I have a follow up appointment in 2 weeks"", ""I have a follow up appointment in 2 weeks""]
+
+Ranked:
+[1, 2, 3]"
+"Context:
+Doctor: Nice to see you again, miss. I see your last visit was back on August tenth two thousand and four. How are you?
+Patient: Hi, doctor. Nice to see you again as well. I've been doing fine.
+Doctor: How is your husband doing?
+Patient: He's doing fine. Just working a lot.
+Doctor: Great! I hope the work isn't getting him too stressed out. Also, I need to fill out the ethnicity section in your paperwork; it seems to be missing. What ethnicity do you identify as?
+Patient: Oh, yes. I am white.
+Doctor: Thanks! Are you still working too?
+Patient: Yeah, I am. My secretary position has been super stressful lately.
+Doctor: I understand. How is your acne doing?
+Patient: I think it's been getting better, but I've had this rash for the last two months on my chest, stomach, neck, and back.
+Doctor: I see. Let me take a look at this rash. I see you have these small folliculitis lesions that are pus filled bumps centered on your hair.
+Patient: Oh, no. Is that bad?
+Doctor: It's treatable. It seems like it's happening because your acne is flaring up.
+Patient: Oh, really. Is it because I stopped my medication for the last three days?
+Doctor: I forgot what I prescribed you. Let me take a look at my notes. Oh, I see. I prescribed you five hundred milligrams of Amoxicillin to take twice a day and a point one Tazorac cream. Have those been working?
+Patient: Yeah, they have. I noticed my face started to get better.
+Doctor: Continue to take those and try not to stop it. Have you been trying anything else?
+Patient: I actually started going to Healing Waters to get photofacials.
+
+Questions:
+[""Oh really? How long have you had this rash?"", ""What were your symptoms before?"", ""What type of acne were you having?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: Nice to see you again, miss. I see your last visit was back on August tenth two thousand and four. How are you?
+Patient: Hi, doctor. Nice to see you again as well. I've been doing fine.
+Doctor: How is your husband doing?
+Patient: He's doing fine. Just working a lot.
+Doctor: Great! I hope the work isn't getting him too stressed out. Also, I need to fill out the ethnicity section in your paperwork; it seems to be missing. What ethnicity do you identify as?
+Patient: Oh, yes. I am white.
+Doctor: Thanks! Are you still working too?
+Patient: Yeah, I am. My secretary position has been super stressful lately.
+Doctor: I understand. How is your acne doing?
+Patient: I think it's been getting better, but I've had this rash for the last two months on my chest, stomach, neck, and back.
+Doctor: I see. Let me take a look at this rash. I see you have these small folliculitis lesions that are pus filled bumps centered on your hair.
+Patient: Oh, no. Is that bad?
+Doctor: It's treatable. It seems like it's happening because your acne is flaring up.
+Patient: Oh, really. Is it because I stopped my medication for the last three days?
+
+Questions:
+[""Have you been able to keep up with your regular exercise routine during this stressful time?"", ""Could you describe the texture and appearance of your rash in more detail?"", ""What treatment do you remember having before?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: Nice to see you again, miss. I see your last visit was back on August tenth two thousand and four. How are you?
+Patient: Hi, doctor. Nice to see you again as well. I've been doing fine.
+
+Questions:
+[""How is your general health?"", ""What are your symptoms and how long have they been occurring for?"", ""Have you been experiencing any other problems or issues recently?""]
+
+Ranked:
+[1, 3, 2]"
+"Context:
+Doctor: Hello! How are you doing today?
+Patient: Hi! I am stuck in here, so I am not doing great.
+Doctor: How long have your legs been swollen like this?
+Patient: They swell up like this from time to time but it has been happening for a long time. I also can't feel my toes.
+Doctor: How long has the numbness of your toes been going on?
+Patient: A long time.
+Doctor: Are you able to get up and move around?
+Patient: I can't walk because of my weight. It is too much for me. When I try to get up, I get short of breath. I have C O P D. I can't do much but sit here. I am in a lot of pain all the time.
+Doctor: When you get up and try to walk around, do you experience any chest pain or visual problems?
+Patient: No. I just feel out of breath.
+Doctor: Do you take anything for your pain?
+Patient: I take OxyContin for my back pain.
+
+Questions:
+[""What makes your legs swell up?"", ""Have you had your blood pressure checked recently?"", ""Is there any rashes on your legs that need attention?""]
+
+Ranked:
+[2, 3, 1]"
+"Context:
+Doctor: Hello! How are you doing today?
+Patient: Hi! I am stuck in here, so I am not doing great.
+
+Questions:
+[""What part of your body is swollen?"", ""What does it feel like?"", ""How long has it been swollen?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: Is this chest pain new for you?
+Patient: For the most part, yeah. It's been happening the last few nights.
+Doctor: How would you describe the pain?
+Patient: Like a gnawing sensation.
+Doctor: How long does each episode last?
+Patient: Few seconds I think.
+Doctor: How would you rate the pain out of ten with ten being the worst?
+Patient: I'd say it's about a five or six outta ten.
+
+Questions:
+[""What's your occupation?"", ""How long have you been experiencing this chest pain?"", ""Does this pain radiate down your arm or shoulder?""]
+
+Ranked:
+[3, 1, 2]"
+"Context:
+Doctor: Is this chest pain new for you?
+Patient: For the most part, yeah. It's been happening the last few nights.
+
+Questions:
+[""What time do you go to bed?"", ""Have you been taking any medications?"", ""Does this pain occur on both sides of your chest?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: And how long have you been married?
+Patient: I have been happily married for forty five years.
+
+Questions:
+[""How did your wife react when she found out about your cancer diagnosis?"", ""Has your cancer diagnosis impacted your relationship with your wife in any way?"", ""What does your wife do for a living?""]
+
+Ranked:
+[1, 2, 3]"
+"Context:
+Doctor: Do you know what foods have a high level of salt?
+Patient: Do you mean like chips and junk food?
+Doctor: Yes mostly. And pickles.. I want you to avoid them.
+Patient: Okay. Why?
+
+Questions:
+[""What are other foods that are high in salt?"", ""How much salt do these foods have?"", ""What are the main sources of salt in your diet?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: Please, tell me more about your family's medical history. Are there any conditions I should know about?
+Patient: I know that my grandma had arthritis.
+Doctor: Good to know, did you have arthritis as a child?
+Patient: No, I didn't have anything like that. I thought only old people got that.
+
+Questions:
+[""What are your symptoms? Can you describe your pain and its location?"", ""When did your symptoms start?"", ""Have you had any surgeries or significant injuries in the past?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: Hello, sir. Welcome back. Looks like we are going to revaluate your heart issues. You have a history of ischemic cardiac disease, correct? Can you also state your age?
+Patient: Sixty eight. Yes. I saw doctor X Y Z in February two thousand four and he made me walk on a treadmill for eight minutes. Do you have the results from that?
+
+Questions:
+[""What was your experience during that treadmill test?"", ""Did anything happen while walking on the treadmill?"", ""Were you able to complete eight minutes?""]
+
+Ranked:
+[1, 2, 3]"
+"Context:
+Doctor: Any nausea, vomiting diarrhea, or fever?
+Patient: Yes, all of the above.
+
+Questions:
+[""What is your age?"", ""Are there any other symptoms?"", ""Have you been taking medications?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: So, Doctor Pai how is your patient that you told me about?
+Guest_clinician: Oh, we discharged her, she went home.
+
+Questions:
+[""How long did she stay in the hospital?"", ""Was she able to follow instructions?"", ""Did she take her prescribed medications?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: What type of cancer again?
+Patient: I had prostate cancer.
+
+Questions:
+[""Why did you come back for a checkup?"", ""What were your symptoms when you noticed something was wrong?"", ""How long have you been experiencing these symptoms?""]
+
+Ranked:
+[2, 3, 1]"
+"Context:
+Doctor: Do you have any major medical conditions that run in your family that I should know about?
+Patient: What exactly do you mean by that, doctor?
+
+Questions:
+[""What exactly do you mean by that, doctor?"", ""Are there any specific family members with certain health issues?"", ""Have these issues been diagnosed and treated?""]
+
+Ranked:
+[1, 3, 2]"
+"Context:
+Doctor: Hi there! I am Doctor Jones, sir.
+Patient: Hello! It is nice to meet you.
+Doctor: What brings you into see me today?
+Patient: I have had this weakness in my right leg for quite some time now.
+Doctor: How long has this been going on and do you know how you injured yourself?
+Patient: I think that it was about six months ago that the weakness in my leg started. I don't really remember how it happened.
+Doctor: Can you tell me what you do remember?
+Patient: I was reaching to get something from a cabinet, and I noticed that I was unable to stand on my right toe. Ever since then I have had difficulty pushing off when walking. My toes were tingling and numb.
+Doctor: Was the numbness and tingling mild, moderate, or severe?
+Patient: It was a mild feeling, but this has been an ongoing problem that has been the same since the weakness started.
+
+Questions:
+[""What kind of activities do you regularly engage in?"", ""Does your job involve lifting heavy objects?"", ""Can you remember if anything unusual happened before the weakness started?""]
+
+Ranked:
+[3, 1, 2]"
+"Context:
+Doctor: Hi there! I am Doctor Jones, sir.
+Patient: Hello! It is nice to meet you.
+Doctor: What brings you into see me today?
+Patient: I have had this weakness in my right leg for quite some time now.
+Doctor: How long has this been going on and do you know how you injured yourself?
+Patient: I think that it was about six months ago that the weakness in my leg started. I don't really remember how it happened.
+
+Questions:
+[""What else do you notice about your leg?"", ""Have you noticed any swelling?"", ""Have you had any pain in your leg?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: Hi there! I am Doctor Jones, sir.
+Patient: Hello! It is nice to meet you.
+Doctor: What brings you into see me today?
+Patient: I have had this weakness in my right leg for quite some time now.
+Doctor: How long has this been going on and do you know how you injured yourself?
+Patient: I think that it was about six months ago that the weakness in my leg started. I don't really remember how it happened.
+Doctor: Can you tell me what you do remember?
+Patient: I was reaching to get something from a cabinet, and I noticed that I was unable to stand on my right toe. Ever since then I have had difficulty pushing off when walking. My toes were tingling and numb.
+Doctor: Was the numbness and tingling mild, moderate, or severe?
+Patient: It was a mild feeling, but this has been an ongoing problem that has been the same since the weakness started.
+Doctor: Have you had any other pain any where else in your body?
+Patient: I have had back pain, but this has been going on for many years and has not changed.
+
+Questions:
+[""What is your age?"", ""How tall are you?"", ""What is your weight?""]
+
+Ranked:
+[1, 2, 3]"
+"Context:
+Doctor: Hi there! I am Doctor Jones, sir.
+Patient: Hello! It is nice to meet you.
+Doctor: What brings you into see me today?
+Patient: I have had this weakness in my right leg for quite some time now.
+Doctor: How long has this been going on and do you know how you injured yourself?
+Patient: I think that it was about six months ago that the weakness in my leg started. I don't really remember how it happened.
+Doctor: Can you tell me what you do remember?
+Patient: I was reaching to get something from a cabinet, and I noticed that I was unable to stand on my right toe. Ever since then I have had difficulty pushing off when walking. My toes were tingling and numb.
+
+Questions:
+[""What kind of activities do you typically engage in during your daily routine?"", ""Have you been experiencing any other symptoms such as pain or burning sensations?"", ""Can you describe your gait pattern when walking?""]
+
+Ranked:
+[3, 1, 2]"
+"Context:
+Doctor: Hi there! I am Doctor Jones, sir.
+Patient: Hello! It is nice to meet you.
+Doctor: What brings you into see me today?
+Patient: I have had this weakness in my right leg for quite some time now.
+Doctor: How long has this been going on and do you know how you injured yourself?
+Patient: I think that it was about six months ago that the weakness in my leg started. I don't really remember how it happened.
+Doctor: Can you tell me what you do remember?
+Patient: I was reaching to get something from a cabinet, and I noticed that I was unable to stand on my right toe. Ever since then I have had difficulty pushing off when walking. My toes were tingling and numb.
+Doctor: Was the numbness and tingling mild, moderate, or severe?
+Patient: It was a mild feeling, but this has been an ongoing problem that has been the same since the weakness started.
+Doctor: Have you had any other pain any where else in your body?
+Patient: I have had back pain, but this has been going on for many years and has not changed.
+Doctor: Is the back pain been mild, moderate, or severe?
+Patient: I would say mild. I have also been having cramping in both calves.
+Doctor: How long has that been going on?
+Patient: For the past year but it stopped about two months ago.
+Doctor: Have you had any weakness in the left leg?
+Patient: No. I don't think so.
+Doctor: Have you had any pain around right leg and the area of numbness and tingling?
+Patient: No. Everything that is going on with my right leg has pretty much been the same since it started six months ago. I have not gotten worse or better.
+Doctor: Have you had any bowel or bladder incontinence? Any radicular pain?
+Patient: No.
+Doctor: When did you first see a doctor for the issue? I remember that you told me you saw a different provider prior to coming to see me.
+Patient: I saw the other doctor in October. That was a couple of months before I came to see you.
+Doctor: I see in your chart that we did a CT scan that shows degenerative changes, but nothing obviously abnormal. Remind me why we did not do a MRI of your spine?
+Patient: I cannot have an MRI because of my ear implant.
+
+Questions:
+[""I see that there is a CT scan in your records, but it did not show a clear answer. Did they do an Xray?"", ""How does your back pain feel today?"", ""Is your back pain better than six months ago?""]
+
+Ranked:
+[1, 3, 2]"
+"Context:
+Doctor: Hi there! I am Doctor Jones, sir.
+Patient: Hello! It is nice to meet you.
+Doctor: What brings you into see me today?
+Patient: I have had this weakness in my right leg for quite some time now.
+Doctor: How long has this been going on and do you know how you injured yourself?
+Patient: I think that it was about six months ago that the weakness in my leg started. I don't really remember how it happened.
+Doctor: Can you tell me what you do remember?
+Patient: I was reaching to get something from a cabinet, and I noticed that I was unable to stand on my right toe. Ever since then I have had difficulty pushing off when walking. My toes were tingling and numb.
+Doctor: Was the numbness and tingling mild, moderate, or severe?
+Patient: It was a mild feeling, but this has been an ongoing problem that has been the same since the weakness started.
+Doctor: Have you had any other pain any where else in your body?
+Patient: I have had back pain, but this has been going on for many years and has not changed.
+Doctor: Is the back pain been mild, moderate, or severe?
+Patient: I would say mild. I have also been having cramping in both calves.
+Doctor: How long has that been going on?
+Patient: For the past year but it stopped about two months ago.
+
+Questions:
+[""Have you been losing weight?"", ""How much weight have you lost?"", ""Has anyone else in your family been experiencing similar symptoms?""]
+
+Ranked:
+[1, 2, 3]"
+"Context:
+Doctor: Do you smoke cigarettes?
+Patient: No, I do not.
+
+Questions:
+[""What about e cigarette use?"", ""Are you a user of other nicotine products like vapes or hookahs?"", ""Have you tried using nicotine patches or gum in the past?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: How are your sugar levels these days, sir?
+Patient: Well, it is well under control.
+
+Questions:
+[""What medications are you taking for your diabetes?"", ""How often do you check your blood sugar levels at home?"", ""Have you had any instances of low blood sugar?""]
+
+Ranked:
+[1, 3, 2]"
+"Context:
+Doctor: And how about any allergies? Are you allergic to any drug or anything?
+Patient: Ah, yes I am very allergic to Bactrim.
+
+Questions:
+[""What is Bactrim?"", ""Can you describe your symptoms when you take Bactrim?"", ""Do you have a history of allergic reactions from taking Bactrim?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: Good afternoon, ma'am.
+Patient: Good afternoon, doctor.
+Doctor: Before we get started, I just need some background information. How old are you?
+Patient: I'm fifty six, doctor.
+Doctor: Good, what's a young lady like you doing in my office? I hear you got hurt, what happened?
+Patient: I don't remember exactly what happened, but my foot twisted and there was so much pain right away.
+
+Questions:
+[""What are your symptoms right now?"", ""What kind of activities are you doing on a regular basis that could contribute to such injuries?"", ""Did you notice anything unusual in your foot before the injury occurred?""]
+
+Ranked:
+[3, 1, 2]"
+"Context:
+Doctor: Have you ever smoked?
+Patient: Yes, I've been smoking around one pack.
+
+Questions:
+[""When did you start smoking?"", ""How long have you been smoking for?"", ""How often do you smoke a pack in a day?""]
+
+Ranked:
+[3, 1, 2]"
+"Context:
+Doctor: Good morning, ma'am. Did you have a good thirty-sixth birthday?
+Patient: Yes, thank you. It was a nice day, despite the knee pain.
+
+Questions:
+[""So, how would you describe your knee pain?"", ""Do you have a history of knee pain?"", ""What other treatments have you tried for your knee pain?""]
+
+Ranked:
+[3, 1, 2]"
+"Context:
+Doctor: Good morning, ma'am. Did you have a good thirty-sixth birthday?
+Patient: Yes, thank you. It was a nice day, despite the knee pain.
+Doctor: That's good, we'll get back to that knee in a moment. Just to confirm, you identify as white, correct?
+Patient: Yes, I do.
+Doctor: Thank you. I just needed to make sure my chart was correct. So, is this left knee still bothering you?
+Patient: Yes, unfortunately, it still is.
+
+Questions:
+[""When did your knee pain begin?"", ""Have you tried any home remedies or exercises for your knee pain?"", ""Have you had any falls or other accidents that have affected your knee?""]
+
+Ranked:
+[3, 1, 2]"
+"Context:
+Doctor: Good morning, ma'am. Did you have a good thirty-sixth birthday?
+Patient: Yes, thank you. It was a nice day, despite the knee pain.
+Doctor: That's good, we'll get back to that knee in a moment. Just to confirm, you identify as white, correct?
+Patient: Yes, I do.
+Doctor: Thank you. I just needed to make sure my chart was correct. So, is this left knee still bothering you?
+Patient: Yes, unfortunately, it still is.
+Doctor: You've had three Synvisc injections, correct? When was your last one?
+Patient: Yes, that was about five days ago, right before my birthday.
+
+Questions:
+[""How do you rate your pain level from 1 to 10?"", ""Has this affected your mobility?"", ""Can you describe your pain in more detail?""]
+
+Ranked:
+[1, 2, 3]"
+"Context:
+Doctor: Good morning, ma'am. Did you have a good thirty-sixth birthday?
+Patient: Yes, thank you. It was a nice day, despite the knee pain.
+Doctor: That's good, we'll get back to that knee in a moment. Just to confirm, you identify as white, correct?
+Patient: Yes, I do.
+Doctor: Thank you. I just needed to make sure my chart was correct. So, is this left knee still bothering you?
+Patient: Yes, unfortunately, it still is.
+Doctor: You've had three Synvisc injections, correct? When was your last one?
+Patient: Yes, that was about five days ago, right before my birthday.
+Doctor: Did that provide any relief at all?
+Patient: Well, I'd say there's been, um, thirty-five or forty percent improvement.
+Doctor: Are you still having the pinching pain?
+Patient: Yes, it's so bad when I try to put my full weight onto this knee.
+
+Questions:
+[""How long have you been experiencing this pain in your left knee?"", ""What activities or movements seem to aggravate your left knee pain?"", ""How has your pain management been? Have you been using pain medications?""]
+
+Ranked:
+[3, 1, 2]"
+"Context:
+Doctor: Hello, how are you doing today? Before we get started, I am going to do a basic review of your medical and social history.
+Patient: Sounds good. Nothing has changed from last visit.
+
+Questions:
+[""What's been going on with your family? Any illnesses or surgeries?"", ""What's been going on with your family? Any illnesses or surgeries?"", ""How has your weight been lately? Any changes in appetite?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: So I talked to Doctor X about your problems.
+Patient: And?
+
+Questions:
+[""Docotor:"", ""Patient:"", ""Doctor:""]
+
+Ranked:
+[1, 2, 3]"
+"Context:
+Doctor: How can we help you today?
+Patient: Oh doctor, I have congestion, and I think I might have a fever. When I touched my forehead earlier it felt much warmer than usual.
+
+Questions:
+[""How high do you feel your fever is?"", ""When did your symptoms start?"", ""Have you been exposed to anyone with a respiratory illness recently?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: How are you?
+Patient: I am well, I have a bad cough and some green, grey things are coming out.
+Doctor: Oh I am sorry, is it causing any shortness of breath?
+Patient: No, I don't feel short of breath.
+Doctor: How about fever?
+Patient: No I do not have any fever.
+Doctor: Any chills?
+Patient: Nope.
+Doctor: Okay so that's why you came to E D?
+Patient: Yes I have been having this for three days and with this sputum I got scared.
+
+Questions:
+[""Have your symptoms been getting worse?"", ""Have you had a similar cough in the past?"", ""Have you been using any over the counter cough medicine?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: How are you?
+Patient: I am well, I have a bad cough and some green, grey things are coming out.
+Doctor: Oh I am sorry, is it causing any shortness of breath?
+Patient: No, I don't feel short of breath.
+Doctor: How about fever?
+Patient: No I do not have any fever.
+Doctor: Any chills?
+Patient: Nope.
+
+Questions:
+[""How long have you been experiencing this cough?"", ""Have you been using over the counter medications?"", ""Have you tried any home remedies?""]
+
+Ranked:
+[1, 2, 3]"
+"Context:
+Guest_clinician: Is there any notable intra abdominal pathology?
+
+Questions:
+[""Do you have a history of abdominal pain?"", ""Have you had any recent weight loss?"", ""Are you experiencing any other gastrointestinal symptoms?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: Do you have any health conditions that I should be aware of?
+Patient: Well, as you can see, I'm obese, and I also have high blood pressure.
+Doctor: Have you ever had surgery?
+Patient: Yeah, I've fractured my right knee before, and they fixed it with a pin, that was in, um, nineteen ninety.
+
+Questions:
+[""What medications are you currently taking for your blood pressure?"", ""Have you had any other orthopedic surgeries?"", ""Do you have a family history of knee problems?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: You were placed on nasogastric tube for decompression, right?
+Patient: Yes.
+
+Questions:
+[""When did you begin feeling pain?"", ""Have you been taking any overthe counter medications?"", ""Does anything in particular trigger your pain?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: Any medical problems?
+Patient: Yeah, I've been suffering from congestion for a few years now.
+
+Questions:
+[""What type of congestion have you been experiencing?"", ""Have you tried any medications for this?"", ""Has your congestion been worsening recently?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: I hear she hasn't been doing so well.
+Guest_family: My poor two-month-old baby girl has been congested for a whole week. I'm so worried about her.
+Doctor: I completely understand. It's never easy to see your baby sick. Have you taken her temperature recently?
+Guest_family: Yes, I've been using an anal thermometer. She's been running a fever for the past two days.
+Doctor: I'm glad you brought her in today. I'll go ahead and take her temperature again. Is she experiencing any other symptoms, such as difficulty breathing or wheezing at all?
+Guest_family: Not that we've noticed.
+
+Questions:
+[""Is she on any medication at home?"", ""Have you tried using a nasal suction device before coming in today?"", ""How is her feeding?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: Hello, miss. How are you doing today?
+Patient: I was doing fine until my head started to hurt.
+Doctor: Oh, no. When did it start?
+Patient: Earlier today. I got really stressed because my husband was bothering me, and my kids kept running around.
+
+Questions:
+[""Are headaches a frequent occurrence for you?"", ""What do you usually do when your head starts hurting?"", ""How long do your headaches usually last?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: Good morning, ma'am. You're here for a follow up, correct?
+Patient: Yes, doctor. Guess what, I just had my seventy seventh birthday.
+Doctor: Happy birthday!
+Patient: Thank you, doctor.
+Doctor: Just to confirm, ma'am, you identify as White, correct?
+Patient: Thank you. Yes, doctor. That's correct.
+Doctor: Okay, walk me through this. So, you've seen doctor X Y Z before, correct?
+Patient: Yes, that's right. I saw him for low back pain and lumbar scoliosis post laminectomy syndrome, lumbar spinal stenosis, and symptomatic right L two radiculopathy.
+Doctor: You were having right leg pain when you saw him?
+Patient: Yes.
+Doctor: Have you ever had surgery on your back?
+Patient: Yes, I had spinal stenosis, so they did, um, a laminectomy.
+Doctor: How did you respond to the procedure?
+Patient: Well, I had lower back pain and some arthritis in my spine after.
+Doctor: How have you been treated for these following the surgery?
+Patient: Um, Doctor X Y Z did some injections into my lower back.
+Doctor: Do you remember which side it was in?
+Patient: It was in the right side, L2-L3.
+Doctor: When was the last time you had these injections into the lower back?
+Patient: The last one was in March of two thousand five.
+Doctor: How did your symptoms progress following the injections?
+Patient: Well, I went back to Doctor X Y Z, and then he thought that the symptoms I was having were coming from my right hip.
+Doctor: Did he do any imaging on this hip?
+Patient: Yes, I had some done when I saw him on, um, August fourth two thousand four.
+Doctor: Okay, the x rays we took today show marked degenerative changes, and a progression since the x rays taken back in August when you saw Doctor X Y Z.
+Patient: Oh no. Oh, he also did the injections into my right hip.
+Doctor: When was that?
+Patient: Um, it was on April seventh two thousand five, and the last time I saw him was April fifteenth.
+Doctor: Is that when you had the last injections?
+Patient: Correct.
+
+Questions:
+[""What have your symptoms been since your last visit with Doctor X Y Z?"", ""Have there been any changes in your pain since your last visit with Doctor X Y Z?"", ""Have there been any changes in your mobility since your last visit with Doctor X Y Z?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: Good morning, ma'am. You're here for a follow up, correct?
+Patient: Yes, doctor. Guess what, I just had my seventy seventh birthday.
+Doctor: Happy birthday!
+Patient: Thank you, doctor.
+
+Questions:
+[""How would you describe your general health in the past few months?"", ""Have you noticed any changes in your appetite?"", ""Have there been any changes in your mental health?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: Good morning, ma'am. You're here for a follow up, correct?
+Patient: Yes, doctor. Guess what, I just had my seventy seventh birthday.
+Doctor: Happy birthday!
+Patient: Thank you, doctor.
+Doctor: Just to confirm, ma'am, you identify as White, correct?
+Patient: Thank you. Yes, doctor. That's correct.
+Doctor: Okay, walk me through this. So, you've seen doctor X Y Z before, correct?
+Patient: Yes, that's right. I saw him for low back pain and lumbar scoliosis post laminectomy syndrome, lumbar spinal stenosis, and symptomatic right L two radiculopathy.
+Doctor: You were having right leg pain when you saw him?
+Patient: Yes.
+Doctor: Have you ever had surgery on your back?
+Patient: Yes, I had spinal stenosis, so they did, um, a laminectomy.
+Doctor: How did you respond to the procedure?
+Patient: Well, I had lower back pain and some arthritis in my spine after.
+Doctor: How have you been treated for these following the surgery?
+Patient: Um, Doctor X Y Z did some injections into my lower back.
+Doctor: Do you remember which side it was in?
+Patient: It was in the right side, L2-L3.
+Doctor: When was the last time you had these injections into the lower back?
+Patient: The last one was in March of two thousand five.
+Doctor: How did your symptoms progress following the injections?
+Patient: Well, I went back to Doctor X Y Z, and then he thought that the symptoms I was having were coming from my right hip.
+Doctor: Did he do any imaging on this hip?
+Patient: Yes, I had some done when I saw him on, um, August fourth two thousand four.
+
+Questions:
+[""You mentioned lower back pain and arthritis in your spine following a laminaectomy procedure. Could you describe how these symptoms have progressed since then?"", ""How have your symptoms been managed since then?"", ""Have you seen another physician for your hip pain?""]
+
+Ranked:
+[3, 1, 2]"
+"Context:
+Doctor: Good morning, ma'am. You're here for a follow up, correct?
+Patient: Yes, doctor. Guess what, I just had my seventy seventh birthday.
+Doctor: Happy birthday!
+Patient: Thank you, doctor.
+Doctor: Just to confirm, ma'am, you identify as White, correct?
+Patient: Thank you. Yes, doctor. That's correct.
+Doctor: Okay, walk me through this. So, you've seen doctor X Y Z before, correct?
+Patient: Yes, that's right. I saw him for low back pain and lumbar scoliosis post laminectomy syndrome, lumbar spinal stenosis, and symptomatic right L two radiculopathy.
+Doctor: You were having right leg pain when you saw him?
+Patient: Yes.
+Doctor: Have you ever had surgery on your back?
+Patient: Yes, I had spinal stenosis, so they did, um, a laminectomy.
+Doctor: How did you respond to the procedure?
+Patient: Well, I had lower back pain and some arthritis in my spine after.
+Doctor: How have you been treated for these following the surgery?
+Patient: Um, Doctor X Y Z did some injections into my lower back.
+Doctor: Do you remember which side it was in?
+Patient: It was in the right side, L2-L3.
+Doctor: When was the last time you had these injections into the lower back?
+Patient: The last one was in March of two thousand five.
+Doctor: How did your symptoms progress following the injections?
+Patient: Well, I went back to Doctor X Y Z, and then he thought that the symptoms I was having were coming from my right hip.
+Doctor: Did he do any imaging on this hip?
+Patient: Yes, I had some done when I saw him on, um, August fourth two thousand four.
+Doctor: Okay, the x rays we took today show marked degenerative changes, and a progression since the x rays taken back in August when you saw Doctor X Y Z.
+Patient: Oh no. Oh, he also did the injections into my right hip.
+Doctor: When was that?
+Patient: Um, it was on April seventh two thousand five, and the last time I saw him was April fifteenth.
+
+Questions:
+[""Did you have any other symptoms?"", ""Have you been taking anything for your pain?"", ""How have your symptoms been since April 2005?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: Good morning, ma'am. You're here for a follow up, correct?
+Patient: Yes, doctor. Guess what, I just had my seventy seventh birthday.
+Doctor: Happy birthday!
+Patient: Thank you, doctor.
+Doctor: Just to confirm, ma'am, you identify as White, correct?
+Patient: Thank you. Yes, doctor. That's correct.
+Doctor: Okay, walk me through this. So, you've seen doctor X Y Z before, correct?
+Patient: Yes, that's right. I saw him for low back pain and lumbar scoliosis post laminectomy syndrome, lumbar spinal stenosis, and symptomatic right L two radiculopathy.
+
+Questions:
+[""What are your main concerns about your right leg pain?"", ""How has your right leg pain been since your last visit?"", ""Can you describe your symptoms associated with your right leg pain?""]
+
+Ranked:
+[2, 3, 1]"
+"Context:
+Doctor: Good morning, ma'am. You're here for a follow up, correct?
+Patient: Yes, doctor. Guess what, I just had my seventy seventh birthday.
+
+Questions:
+[""What are your symptoms?"", ""How are you feeling today?"", ""How have you been feeling since our last appointment?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: Good morning, ma'am. You're here for a follow up, correct?
+Patient: Yes, doctor. Guess what, I just had my seventy seventh birthday.
+Doctor: Happy birthday!
+Patient: Thank you, doctor.
+Doctor: Just to confirm, ma'am, you identify as White, correct?
+Patient: Thank you. Yes, doctor. That's correct.
+Doctor: Okay, walk me through this. So, you've seen doctor X Y Z before, correct?
+Patient: Yes, that's right. I saw him for low back pain and lumbar scoliosis post laminectomy syndrome, lumbar spinal stenosis, and symptomatic right L two radiculopathy.
+Doctor: You were having right leg pain when you saw him?
+Patient: Yes.
+Doctor: Have you ever had surgery on your back?
+Patient: Yes, I had spinal stenosis, so they did, um, a laminectomy.
+
+Questions:
+[""What was your experience with Doctor X Y Z like?"", ""What type of pain and symptoms were you having when you saw Doctor X Y Z?"", ""Have your symptoms improved since your last visit with Doctor X Y Z?""]
+
+Ranked:
+[2, 3, 1]"
+"Context:
+Doctor: Good morning, ma'am. You're here for a follow up, correct?
+Patient: Yes, doctor. Guess what, I just had my seventy seventh birthday.
+Doctor: Happy birthday!
+Patient: Thank you, doctor.
+Doctor: Just to confirm, ma'am, you identify as White, correct?
+Patient: Thank you. Yes, doctor. That's correct.
+Doctor: Okay, walk me through this. So, you've seen doctor X Y Z before, correct?
+Patient: Yes, that's right. I saw him for low back pain and lumbar scoliosis post laminectomy syndrome, lumbar spinal stenosis, and symptomatic right L two radiculopathy.
+Doctor: You were having right leg pain when you saw him?
+Patient: Yes.
+Doctor: Have you ever had surgery on your back?
+Patient: Yes, I had spinal stenosis, so they did, um, a laminectomy.
+Doctor: How did you respond to the procedure?
+Patient: Well, I had lower back pain and some arthritis in my spine after.
+Doctor: How have you been treated for these following the surgery?
+Patient: Um, Doctor X Y Z did some injections into my lower back.
+Doctor: Do you remember which side it was in?
+Patient: It was in the right side, L2-L3.
+Doctor: When was the last time you had these injections into the lower back?
+Patient: The last one was in March of two thousand five.
+Doctor: How did your symptoms progress following the injections?
+Patient: Well, I went back to Doctor X Y Z, and then he thought that the symptoms I was having were coming from my right hip.
+Doctor: Did he do any imaging on this hip?
+Patient: Yes, I had some done when I saw him on, um, August fourth two thousand four.
+Doctor: Okay, the x rays we took today show marked degenerative changes, and a progression since the x rays taken back in August when you saw Doctor X Y Z.
+Patient: Oh no. Oh, he also did the injections into my right hip.
+Doctor: When was that?
+Patient: Um, it was on April seventh two thousand five, and the last time I saw him was April fifteenth.
+Doctor: Is that when you had the last injections?
+Patient: Correct.
+Doctor: Has anyone talked to you about doing a hip replacement?
+Patient: Yes, but right now I'm not sure if I want to do it.
+Doctor: Are you still having pain in that right hip today?
+Patient: Yes, it still hurts.
+Doctor: What makes the pain worse?
+Patient: Well, anything that puts weight on this hip hurts really bad.
+Doctor: Okay, if it hurts that bad you should be using a cane. Did you ever get one?
+Patient: Yes, I used one to come in here today, in fact.
+
+Questions:
+[""Why did Doctor X Y Z suggest hip surgery?"", ""Why did he decide against it?"", ""How long ago did he suggest hip surgery?""]
+
+Ranked:
+[1, 2, 3]"
+"Context:
+Doctor: Hello, sir. How are you doing today?
+Patient: I hurt my left wrist again.
+Doctor: Oh, no. Again? Did you hurt it before?
+Patient: Yeah, I did. I've actually hurt it a lot. The most recent one was probably the worst pain of my life.
+Doctor: I see. How did you hurt it?
+Patient: I was lifting some things out of the trunk of my car, and it started hurting.
+Doctor: Did it hurt before that?
+Patient: Yeah, it did. It was sore and stuff, but the pain wasn't bothering me too much. I kind of just lived with it. Some days it would be fine, but other days it would hurt a little more.
+Doctor: The recent injury made it worse?
+Patient: Yeah, it did. The pain after the incident got worse. I kind of feel it now more near my pinky area than my thumb area.
+
+Questions:
+[""Did you try using ice for pain relief?"", ""What has been your coping strategy for pain management so far?"", ""How has pain affected your day to day activities?""]
+
+Ranked:
+[3, 1, 2]"
+"Context:
+Doctor: Hello, sir. How are you doing today?
+Patient: I hurt my left wrist again.
+Doctor: Oh, no. Again? Did you hurt it before?
+Patient: Yeah, I did. I've actually hurt it a lot. The most recent one was probably the worst pain of my life.
+Doctor: I see. How did you hurt it?
+Patient: I was lifting some things out of the trunk of my car, and it started hurting.
+
+Questions:
+[""Did it throb"", ""Did it feel like it was being crushed"", ""Did your hand numb""]
+
+Ranked:
+[2, 3, 1]"
+"Context:
+Doctor: Any allergies to medicine he might have?
+Guest_family: No, no allergies that we know of.
+
+Questions:
+[""What are his chief complaints and symptoms he is experiencing?"", ""How long has he been experiencing these symptoms?"", ""Can you describe his symptoms in detail?""]
+
+Ranked:
+[3, 1, 2]"
+"Context:
+Doctor: I will ask you a few questions about your social history, sir.
+Patient: That's okay. I have nothing to hide.
+
+Questions:
+[""What is your marital status?"", ""What is your educational background?"", ""How long have you been working for your current employer?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: Have you been checking your blood sugar regularly?
+Patient: Yes, I check it twice a day and I make sure to record the readings each time.
+Doctor: That's great to hear. Do you mind if I take a look at the readings you brought with you today?
+Patient: No, it's not a problem. Here, let me get my bag.
+
+Questions:
+[""How long have you been checking your blood sugar regularly?"", ""What do your blood sugar readings typically range between?"", ""Are there any specific times or circumstances in which your blood sugar readings tend to be higher than usual?""]
+
+Ranked:
+[3, 1, 2]"
+"Context:
+Doctor: Have you been checking your blood sugar regularly?
+Patient: Yes, I check it twice a day and I make sure to record the readings each time.
+Doctor: That's great to hear. Do you mind if I take a look at the readings you brought with you today?
+Patient: No, it's not a problem. Here, let me get my bag.
+Doctor: Have you been experiencing any dizziness, excessive urination, fatigue, weight loss, or any other symptoms?
+Patient: No.
+Doctor: I have a copy of your blood work right here and it looks like your cholesterol is still pretty high. I'd like you to continue taking the cholesterol medication I prescribed and monitoring your cholesterol intake.
+Patient: I need to do a better job of watching my cholesterol.
+Doctor: For this reason, I'd like to schedule another follow up appointment and get you in in a few weeks after another blood draw.
+Patient: I'll make an appointment today before I leave.
+
+Questions:
+[""What have your diet and exercise routines been like since our last appointment?"", ""Have there been any changes in your medication since our last appointment?"", ""How has your energy level been since starting the medication?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: What brings you into the office today?
+Patient: I have been having some stomach problems.
+
+Questions:
+[""When did your symptoms start?"", ""How often do these symptoms occur?"", ""Have you noticed a change in your bowel movements?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: Any problems with your eyesight? Like blur or double vision?
+Patient: Um, no.
+Doctor: Any partial loss of vision or blind spot?
+Patient: Um, no.
+
+Questions:
+[""So, no loss vision, right?"", ""Do you have trouble seeing clearly?"", ""Have you experienced any blackout?""]
+
+Ranked:
+[1, 2, 3]"
+"Context:
+Doctor: What brings you into the office today?
+Patient: I have been feeling strange lately.
+Doctor: Strange, in what way?
+Patient: Well, the other day I was driving and suddenly, I didn't know where I was or where I was driving to.
+Doctor: That must have been very scary for you. How long did you feel disoriented?
+Patient: It seemed to last about ten or fifteen minutes.
+Doctor: Has anything like this happened before?
+Patient: It has happened two times before this, but I was not driving.
+
+Questions:
+[""How long did this last time?"", ""Did this happen in a public place before?"", ""Did this happen at home before?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: I'm going to run through a list of symptoms and if you're experiencing one or more of these, please let me know.
+Patient: Okay.
+Doctor: You had previously mentioned that you sometimes experience an overactive bladder. Are you having any pain with urination or other urinary symptoms along with it?
+Patient: No. Just occasionally, when I am really stressed, I start having trouble controlling my bladder.
+
+Questions:
+[""How often do you experience this issue?"", ""Have there been any changes in your bladder control over time?"", ""Is there anything else that seems to trigger your bladder issues?""]
+
+Ranked:
+[3, 1, 2]"
+"Context:
+Doctor: I'm going to run through a list of symptoms and if you're experiencing one or more of these, please let me know.
+Patient: Okay.
+
+Questions:
+[""Have you noticed any change in your urinary habits?"", ""Are you experiencing any pain when urinating?"", ""Is there a change in the amount of urine you're passing?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: Anyone have asthma at home?
+Patient: Yes, my mother and her two sisters have long term asthma.
+
+Questions:
+[""How long has your mother had this condition?"", ""What are your mother's symptoms when she has an asthma attack?"", ""Does she use inhalers or other medications for her asthma?""]
+
+Ranked:
+[3, 1, 2]"
+"Context:
+Guest_clinician: How old is the patient?
+
+Questions:
+[""Patient"", ""What do you mean by "", ""What does that mean""]
+
+Ranked:
+[1, 3, 2]"
+"Context:
+Doctor: Hello there, how are you doing?
+Patient: I'm doing good. Thank you. How about you?
+Doctor: Yeah, same old, same old.
+Doctor: So, looks like we're here to discuss your diet. Is that right?
+Patient: Yep. That's right.
+Doctor: Okay, let me look through your chart. It looks like you have high lipid levels, high blood pressure and a possibility for a metabolic syndrome.
+Patient: That looks like my chart. I'm kind of struggling here and I need your help.
+Doctor: Yeah, tell me did you follow the meal plan that we gave to you?
+Patient: I tried for many weeks to follow that meal plan that you gave me.
+Doctor: Okay, did it help?
+Patient: I don't know. I felt like I was still gaining weight instead of losing it.
+Doctor: Did you follow it exactly as you are, as you were asked to do?
+Patient: I tried my best. But I feel like I am not doing it correctly or something.
+Doctor: Okay, tell me what kind of activities are you doing? How much physical activity are you doing on a regular basis?
+Patient: I try to walk around one and a half to two miles like every other day, but I'm spending more time in my garden and doing the yard work by myself.
+Doctor: That's good. Gardening gets-- can get hard and it helps you keep active.
+Patient: Oh yes, picking up all those pots from here to there and knowing that backyard of mine, it's a hard job.
+Doctor: Tell me what brings you here today? Like how can I help you?
+Patient: So, I think the meal plan that you gave was not working for me and there was definitely some weight gain, so I went back to my old South Beach Diet.
+
+Questions:
+[""What led you to pick South Beach Diet?"", ""Did it work better than our meal plan?"", ""What has been your experience with the South Beach Diet?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: Hello there, how are you doing?
+Patient: I'm doing good. Thank you. How about you?
+Doctor: Yeah, same old, same old.
+Doctor: So, looks like we're here to discuss your diet. Is that right?
+Patient: Yep. That's right.
+Doctor: Okay, let me look through your chart. It looks like you have high lipid levels, high blood pressure and a possibility for a metabolic syndrome.
+Patient: That looks like my chart. I'm kind of struggling here and I need your help.
+Doctor: Yeah, tell me did you follow the meal plan that we gave to you?
+Patient: I tried for many weeks to follow that meal plan that you gave me.
+Doctor: Okay, did it help?
+Patient: I don't know. I felt like I was still gaining weight instead of losing it.
+
+Questions:
+[""Doctor"", ""Patient"", ""Doctor""]
+
+Ranked:
+[3, 1, 2]"
+"Context:
+Doctor: Hello there, how are you doing?
+Patient: I'm doing good. Thank you. How about you?
+Doctor: Yeah, same old, same old.
+Doctor: So, looks like we're here to discuss your diet. Is that right?
+Patient: Yep. That's right.
+Doctor: Okay, let me look through your chart. It looks like you have high lipid levels, high blood pressure and a possibility for a metabolic syndrome.
+Patient: That looks like my chart. I'm kind of struggling here and I need your help.
+Doctor: Yeah, tell me did you follow the meal plan that we gave to you?
+Patient: I tried for many weeks to follow that meal plan that you gave me.
+
+Questions:
+[""What was the biggest challenge for you while following this meal plan?"", ""Did your family support your efforts in following this meal plan?"", ""Did you feel like you were missing out on certain foods that are essential for your nutritional needs when following this plan?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: Hello there, how are you doing?
+Patient: I'm doing good. Thank you. How about you?
+Doctor: Yeah, same old, same old.
+Doctor: So, looks like we're here to discuss your diet. Is that right?
+Patient: Yep. That's right.
+Doctor: Okay, let me look through your chart. It looks like you have high lipid levels, high blood pressure and a possibility for a metabolic syndrome.
+Patient: That looks like my chart. I'm kind of struggling here and I need your help.
+Doctor: Yeah, tell me did you follow the meal plan that we gave to you?
+Patient: I tried for many weeks to follow that meal plan that you gave me.
+Doctor: Okay, did it help?
+Patient: I don't know. I felt like I was still gaining weight instead of losing it.
+Doctor: Did you follow it exactly as you are, as you were asked to do?
+Patient: I tried my best. But I feel like I am not doing it correctly or something.
+Doctor: Okay, tell me what kind of activities are you doing? How much physical activity are you doing on a regular basis?
+Patient: I try to walk around one and a half to two miles like every other day, but I'm spending more time in my garden and doing the yard work by myself.
+
+Questions:
+[""How long have you been following this meal plan for?"", ""How much weight have you gained since starting this meal plan?"", ""What have been your biggest challenges in following this meal plan?""]
+
+Ranked:
+[1, 2, 3]"
+"Context:
+Doctor: How're you feeling today?
+Patient: Honestly, I've had way better days.
+Doctor: I'm sorry. Why is that?
+Patient: I've been getting short of breath a lot more than I'm used to.
+
+Questions:
+[""Can I take a look at your chest?"", ""Have you been using any medication for it?"", ""Have you noticed any swelling in your feet or hands?""]
+
+Ranked:
+[1, 2, 3]"
+"Context:
+Doctor: How're you feeling today?
+Patient: Honestly, I've had way better days.
+
+Questions:
+[""What's going on with your symptoms?"", ""How long have your symptoms been present?"", ""How has your appetite been lately?""]
+
+Ranked:
+[3, 1, 2]"
+"Context:
+Doctor: Hi, how are you?
+Patient: I am well. I am feeling a much better.
+
+Questions:
+[""What other symptoms do you have?"", ""How long have these symptoms been present?"", ""Can I take a look at your throat?""]
+
+Ranked:
+[2, 3, 1]"
+"Context:
+Doctor: You have hypothyroidism, correct?
+Patient: Yes.
+
+Questions:
+[""How long have you had hypothyroidism?"", ""How do you manage your symptoms?"", ""Are there other medical conditions in your family history?""]
+
+Ranked:
+[2, 3, 1]"
+"Context:
+Doctor: You have hypothyroidism, correct?
+Patient: Yes.
+Doctor: Have you been watching your blood sugar?
+Patient: Yes. It's been fine lately so has my anemia.
+Doctor: Good to hear. I see here you were diagnosed with I B S and bowel abnormalities a few years ago.
+Patient: My most recent bouts of diarrhea were likely due to C diff and they seem to have gotten better.
+Doctor: I see my nurse didn't have the chance to go through the review of systems with you, so I will go through them now.
+Patient: Okay.
+
+Questions:
+[""How long ago were you diagnosed with IBS?"", ""What symptoms do you still have with your IBS?"", ""Have you had any recent flare ups with your IBS?""]
+
+Ranked:
+[3, 1, 2]"
+"Context:
+Doctor: You have hypothyroidism, correct?
+Patient: Yes.
+Doctor: Have you been watching your blood sugar?
+Patient: Yes. It's been fine lately so has my anemia.
+
+Questions:
+[""Is your blood pressure being monitored?"", ""Are your cholesterol levels being checked regularly?"", ""Have you had a full body checkup recently?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: You have hypothyroidism, correct?
+Patient: Yes.
+Doctor: Have you been watching your blood sugar?
+Patient: Yes. It's been fine lately so has my anemia.
+Doctor: Good to hear. I see here you were diagnosed with I B S and bowel abnormalities a few years ago.
+Patient: My most recent bouts of diarrhea were likely due to C diff and they seem to have gotten better.
+Doctor: I see my nurse didn't have the chance to go through the review of systems with you, so I will go through them now.
+Patient: Okay.
+Doctor: Any fever, chills, or night sweats?
+Patient: Nope.
+Doctor: Any unusual weight gain or loss?
+Patient: No, my weight has been stable.
+Doctor: Any visual changes, in one or both eyes?
+Patient: No.
+Doctor: Any hearing changes or ear problems?
+Patient: Nope.
+Doctor: I know I already asked you about your hypothyroidism, but I wanted to check if you are having any excessive thirst or frequent urination?
+Patient: Nope, none of that.
+Doctor: Any shortness of breath, cough, coughing up excessive mucus or blood, or breathing problems?
+Patient: Thankfully none of that.
+Doctor: Okay, how about any kind of chest pain or discomfort, trouble breathing at night or when lying down, palpitations or heart attacks?
+Patient: No, none of that.
+Doctor: Any urinary problems, anything with your kidneys?
+Patient: No.
+Doctor: Any abnormal vaginal bleeding or discharge?
+Patient: Nope.
+
+Questions:
+[""Any blackouts, convulsions, seizures, paralysis, strokes, or headaches?"", ""Have you had any recent bowel abnormalities?"", ""Is your blood pressure stable?""]
+
+Ranked:
+[3, 1, 2]"
+"Context:
+Doctor: You have hypothyroidism, correct?
+Patient: Yes.
+Doctor: Have you been watching your blood sugar?
+Patient: Yes. It's been fine lately so has my anemia.
+Doctor: Good to hear. I see here you were diagnosed with I B S and bowel abnormalities a few years ago.
+Patient: My most recent bouts of diarrhea were likely due to C diff and they seem to have gotten better.
+Doctor: I see my nurse didn't have the chance to go through the review of systems with you, so I will go through them now.
+Patient: Okay.
+Doctor: Any fever, chills, or night sweats?
+Patient: Nope.
+Doctor: Any unusual weight gain or loss?
+Patient: No, my weight has been stable.
+Doctor: Any visual changes, in one or both eyes?
+Patient: No.
+Doctor: Any hearing changes or ear problems?
+Patient: Nope.
+Doctor: I know I already asked you about your hypothyroidism, but I wanted to check if you are having any excessive thirst or frequent urination?
+Patient: Nope, none of that.
+Doctor: Any shortness of breath, cough, coughing up excessive mucus or blood, or breathing problems?
+Patient: Thankfully none of that.
+
+Questions:
+[""How do you feel in general?"", ""Is there anything else you'd like to discuss with me?"", ""Any other medical concerns I should know about?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: How old are you?
+Patient: Fifty six.
+Doctor: Are you right handed or left handed?
+Patient: I'm right handed.
+Doctor: So, you have this long standing on and off lower back pain on your right side. And it all happened after your motor vehicle accident in September of two thousand and five.
+Patient: That's right. Right after accident. At that time, I did not feel anything, but five days later I started getting this abnormal like pain in the lower side of my back, especially on the right side. It kind of like moved from there to my buttocks on the posterior side on my thigh and on outside of my calf.
+Doctor: Does anything elevate your pain or decreases it?
+Patient: It gets worse when I'm sitting for a longer period, such as like driving or if I'm walking for a long period of time. It is a little less bad when walking, but still, it is there. Lying down relieves the pain for a bit and also standing helps.
+Doctor: Is there any symptom like weakness or pain in your left leg or your right leg?
+Patient: Nope.
+Doctor: Any change in your bowel movement or your urine function?
+Patient: Nope.
+
+Questions:
+[""Were you able to walk immediately after the accident?"", ""Did you have any other injuries aside from lower back pain?"", ""What were your initial symptoms?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: How old are you?
+Patient: Fifty six.
+
+Questions:
+[""Where do you live?"", ""What is your job?"", ""Have you had any symptoms before?""]
+
+Ranked:
+[1, 2, 3]"
+"Context:
+Doctor: How old are you?
+Patient: Fifty six.
+Doctor: Are you right handed or left handed?
+Patient: I'm right handed.
+Doctor: So, you have this long standing on and off lower back pain on your right side. And it all happened after your motor vehicle accident in September of two thousand and five.
+Patient: That's right. Right after accident. At that time, I did not feel anything, but five days later I started getting this abnormal like pain in the lower side of my back, especially on the right side. It kind of like moved from there to my buttocks on the posterior side on my thigh and on outside of my calf.
+Doctor: Does anything elevate your pain or decreases it?
+Patient: It gets worse when I'm sitting for a longer period, such as like driving or if I'm walking for a long period of time. It is a little less bad when walking, but still, it is there. Lying down relieves the pain for a bit and also standing helps.
+Doctor: Is there any symptom like weakness or pain in your left leg or your right leg?
+Patient: Nope.
+Doctor: Any change in your bowel movement or your urine function?
+Patient: Nope.
+Doctor: Were your symptoms sudden or were they increasing gradually?
+Patient: They increased slowly. I had the pain killers, Medrol but, it has not been very effective. I also had that big injection in my back. It helped me for a few hours but then next day it was all same for me.
+
+Questions:
+[""What type of pain relievers have you taken in the past that helped alleviate your symptoms temporarily?"", ""Have you experienced any numbness or tingling in your right leg since the accident?"", ""Have you had any episodes of incontinence or urinary problems since the accident?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: Are you married?
+Patient: Yes.
+
+Questions:
+[""Who is your spouse's name and how long have you been married?"", ""Does your spouse have any health concerns that you'd like to discuss with me during this consultation?"", ""What are your living arrangements like, do you share a home with your spouse?""]
+
+Ranked:
+[3, 1, 2]"
+"Context:
+Doctor: Have you ever had surgery, ma'am?
+Patient: What, like a joint replacement?
+Doctor: Well, it could be anything from a joint replacement to a C section.
+
+Questions:
+[""Have you ever been pregnant?"", ""Have you experienced complications during childbirth?"", ""Are there any specific health conditions that you are aware of?""]
+
+Ranked:
+[2, 3, 1]"
+"Context:
+Doctor: Are you taking any medication?
+Patient: Yes, they have it in the chart.
+
+Questions:
+[""What is the reason for this visit today?"", ""Can you tell me more about your symptoms and how long you have been experiencing them?"", ""Are there any other medications that have been prescribed for your condition?""]
+
+Ranked:
+[1, 2, 3]"
+"Context:
+Guest_clinician: Did you see that patient today? His general appearance looked good.
+
+Questions:
+[""Did you notice anything unusual?"", ""How did he behave in the waiting room?"", ""Did he have difficulty breathing?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: Hi, how are you?
+Patient: I am okay, but I have this pain on my right side of the chest which is troubling me.
+Doctor: Where exactly do you have pain?
+Patient: Ah, um it's kind of on the upper right side of my chest.
+Doctor: Hm, do you have any nausea vomiting?
+Patient: Yeah, I have nausea sometimes but no vomiting.
+Doctor: How is your appetite are you having a proper diet?
+Patient: No not really. I don't feel hungry that much, my appetite has reduced a lot.
+Doctor: Okay.
+Doctor: Any fever, diarrhea headache or joint pain?
+Patient: No sir.
+Doctor: Did you ever have any seizure or have loss consciousness or any stroke like symptoms?
+Patient: Nothing of that sort.
+Doctor: So, I just reviewed your past medical and surgical history. Tell me something, does anyone else in your family have this kind of chest pain?
+Patient: No, it's just me!
+
+Questions:
+[""Have you experienced any shortness of breath?"", ""Has there been any change in your weight recently?"", ""Have you noticed any swelling in your legs or feet recently?""]
+
+Ranked:
+[1, 2, 3]"
+"Context:
+Doctor: Hi, how are you?
+Patient: I am okay, but I have this pain on my right side of the chest which is troubling me.
+Doctor: Where exactly do you have pain?
+Patient: Ah, um it's kind of on the upper right side of my chest.
+
+Questions:
+[""How long has this pain been bothering you?"", ""Have you had similar pain before?"", ""Have you experienced any difficulty breathing?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: Good morning, ma'am.
+Patient: Good morning, doctor.
+Doctor: What's a young lady like you doing in my office today?
+Patient: Well, I'm not as young as I used to be, I'm sixty eight years old now.
+Doctor: So, what seems to be the problem today?
+Patient: Well, I've had knee pain for about thirteen years now.
+Doctor: I see, how have you been treated for this in the past?
+Patient: I actually had a knee replacement at another facility, but I'd like to have another surgery.
+Doctor: What kind of symptoms are you having?
+Patient: I have so much pain, and I feel snapping, I'm also having trouble walking. It feels like my knee is giving away.
+
+Questions:
+[""Did she mention whether the pain is getting worse?"", ""What medications have you been taking for the pain?"", ""Did she mention how long she has been experiencing this pain?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: Good morning, ma'am.
+Patient: Good morning, doctor.
+Doctor: What's a young lady like you doing in my office today?
+Patient: Well, I'm not as young as I used to be, I'm sixty eight years old now.
+Doctor: So, what seems to be the problem today?
+Patient: Well, I've had knee pain for about thirteen years now.
+Doctor: I see, how have you been treated for this in the past?
+Patient: I actually had a knee replacement at another facility, but I'd like to have another surgery.
+
+Questions:
+[""How long has your knee pain been impacting your daily activities?"", ""Can you tell me more about your knee replacement surgery?"", ""Why do you want another surgery?""]
+
+Ranked:
+[3, 1, 2]"
+"Context:
+Doctor: Good afternoon, sir, and who is this with you today?
+Patient: How are you doing, doctor? This is my daughter.
+Doctor: I'm doing well, but how are you? How have you been doing since I last saw you?
+Patient: I've been doing quite well, doctor.
+Doctor: So, no symptoms of heart disease, or failure?
+Patient: Nope, absolutely not.
+Doctor: Did you follow up with Doctor X?
+Patient: Yes, she said I was doing well, too.
+Doctor: Great! How has your blood sugar been?
+Patient: It's been in a normal range, which I'm thankful for.
+Doctor: Have you had any falls since your last visit?
+Patient: Nope, I've been doing really well.
+
+Questions:
+[""What else would you like me to know about your health today?"", ""Are you experiencing any other symptoms that haven't been discussed so far?"", ""Has there been any changes in your diet and exercise routine since our last meeting?""]
+
+Ranked:
+[1, 3, 2]"
+"Context:
+Doctor: Good afternoon, sir, and who is this with you today?
+Patient: How are you doing, doctor? This is my daughter.
+Doctor: I'm doing well, but how are you? How have you been doing since I last saw you?
+Patient: I've been doing quite well, doctor.
+Doctor: So, no symptoms of heart disease, or failure?
+Patient: Nope, absolutely not.
+Doctor: Did you follow up with Doctor X?
+Patient: Yes, she said I was doing well, too.
+
+Questions:
+[""What's been going on with your diet?"", ""Have you been exercising?"", ""How's your stress level?""]
+
+Ranked:
+[2, 3, 1]"
+"Context:
+Doctor: Good afternoon, sir, and who is this with you today?
+Patient: How are you doing, doctor? This is my daughter.
+Doctor: I'm doing well, but how are you? How have you been doing since I last saw you?
+Patient: I've been doing quite well, doctor.
+Doctor: So, no symptoms of heart disease, or failure?
+Patient: Nope, absolutely not.
+Doctor: Did you follow up with Doctor X?
+Patient: Yes, she said I was doing well, too.
+Doctor: Great! How has your blood sugar been?
+Patient: It's been in a normal range, which I'm thankful for.
+
+Questions:
+[""How have your medications been working for you?"", ""Have you been practicing regular exercise?"", ""Are there any specific concerns you'd like me to address today?""]
+
+Ranked:
+[3, 1, 2]"
+"Context:
+Doctor: You look good? What are you eating these days?
+Patient: I've just started a protein rich diet. I am taking whey protein and have added a lot of greens as well.
+
+Questions:
+[""How long have you been on this diet?"", ""Have you seen an improvement in your appetite or energy levels since starting this diet?"", ""Are you experiencing any gastrointestinal issues such as bloating or constipation since starting this diet?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: I see here that you have a history of frequent U T I's. Are you currently experiencing any urinary symptoms?
+Patient: Nope. I've been drinking a lot more water and taking preventative measures to reduce my chances of getting another one anytime soon. I'm being even more conscious of it since I'm now bed bound.
+
+Questions:
+[""What do you mean by taking preventative measures?"", ""What types of medications are you taking?"", ""How frequently are you consuming them?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: I see here that you have a history of frequent U T I's. Are you currently experiencing any urinary symptoms?
+Patient: Nope. I've been drinking a lot more water and taking preventative measures to reduce my chances of getting another one anytime soon. I'm being even more conscious of it since I'm now bed bound.
+Doctor: That's good news. Are you having other symptoms, such as fever or chills?
+Patient: Nope.
+Doctor: How has your weight been? Has it been pretty stable since you have been bed bound?
+Patient: Weight is stable.
+Doctor: Okay, now for the routine stuff. Any coughing, chest congestion or chest pain?
+Patient: No.
+
+Questions:
+[""How do your urinary symptoms feel?"", ""Are there any other symptoms you're experiencing that I haven't mentioned?"", ""Have you noticed any changes in your stool color?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: Did you have any medical issues in the past?
+Patient: I was found positive for prostate cancer.
+Doctor: Anything else?
+Patient: I also had on and off trouble holding my urine.
+
+Questions:
+[""What kind of treatment were you given for prostate cancer?"", ""Did you experience other symptoms like difficulty urinating?"", ""What was the duration and frequency of your symptoms?""]
+
+Ranked:
+[1, 3, 2]"
+"Context:
+Guest_clinician: Is the patient restrained?
+
+Questions:
+[""No"", ""No"", ""No""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: Welcome to the clinic, sir!
+Patient: Thank you.
+Doctor: Do you use tobacco product, alcohol, or recreational drugs?
+Patient: I don't drink or do drugs. I do smoke cigarettes.
+Doctor: How much do you smoke per day?
+Patient: I probably smoke less then a pack a day.
+
+Questions:
+[""What is your age?"", ""How long have you been smoking cigarettes?"", ""What is your occupation?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: Does anyone else in your family suffer from high blood pressure?
+Patient: Oh yeah, quite a few relatives actually.
+
+Questions:
+[""What other medical conditions do your family members have in addition to high blood pressure?"", ""Is there any specific reason why these relatives suffer from high blood pressure?"", ""Are there any other lifestyle factors that you and your family members share, such as diet or exercise habits?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Guest_clinician: I took her R O S, and everything looks normal except for mild soreness in her arm due to the vaccine.
+Patient: In my left arm.
+
+Questions:
+[""What else do you need me to check on?"", ""How long has she been experiencing this soreness in her arm?"", ""Is there anything else that has been bothering her?""]
+
+Ranked:
+[1, 3, 2]"
+"Context:
+Doctor: How're you feeling after the Prednisone?
+Patient: Much better than before. It looks like the redness and swelling has calmed down a bit.
+
+Questions:
+[""What's your age?"", ""Are you allergic to other medications?"", ""Have you had any other stings before?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: Do you have any history of psychiatric disorders, sir?
+Patient: What, like depression?
+
+Questions:
+[""Patient:"", ""Doctor:"", ""Patient:""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: Hi, how are you all?
+Guest_family: We're good. Thank you.
+Doctor: How are you related to the patient?
+Guest_family: We are family. I am her mother and this is her sister.
+
+Questions:
+[""How long has she been displaying these symptoms?"", ""What medications has she been taking?"", ""How long has she been taking these medications?""]
+
+Ranked:
+[2, 3, 1]"
+"Context:
+Doctor: Have you had any G I issues?
+Patient: Nope.
+Doctor: So no symptoms other than what we discussed earlier?
+Patient: You got it.
+Doctor: Looks like you're in good shape. We're almost done. I just need to confirm a few more things. Seems like they all will be negative.
+Patient: No worries.
+Doctor: Any heart issues or genital or urinary tract issues?
+Patient: None that I have discovered.
+
+Questions:
+[""Have you had any G I issues?"", ""Any heart issues or genital or urinary tract issues?"", ""Any other symptoms?""]
+
+Ranked:
+[3, 1, 2]"
+"Context:
+Doctor: I just need a few pieces of background information, before we get started.
+Patient: Absolutely, doctor.
+
+Questions:
+[""Why did you come in today?"", ""How long have you been experiencing these symptoms?"", ""Can I see your medication list?""]
+
+Ranked:
+[3, 1, 2]"
+"Context:
+Doctor: I just need a few pieces of background information, before we get started.
+Patient: Absolutely, doctor.
+Doctor: What do you do for a living, sir?
+Patient: Actually, right now I'm on disability.
+Doctor: Okay, and do you drink or smoke?
+Patient: No, doctor. I don't do either of those.
+Doctor: Good, are you married?
+Patient: Not married yet, but I've been dating my girlfriend for a while now.
+Doctor: Do you two live together?
+Patient: Yes, doctor, we do.
+
+Questions:
+[""What activities do you participate in on a daily basis?"", ""Are there any specific issues that have caused your disability?"", ""What is your exercise routine?""]
+
+Ranked:
+[1, 2, 3]"
+"Context:
+Doctor: Have you ever been hospitalized for anything?
+Patient: No, thankfully. I was close to being hospitalized once, but it never actually happened.
+Doctor: And when was this?
+Patient: About two years ago. I got into a pretty brutal skateboarding accident.
+
+Questions:
+[""Oh wow, how did your skateboarding accident happen?"", ""What were your symptoms during your skateboarding accident?"", ""Did your symptoms get better with time?""]
+
+Ranked:
+[1, 3, 2]"
+"Context:
+Doctor: How old are you madam?
+Patient: I am seventy-five. I have been feeling very weak and shaky.
+
+Questions:
+[""How long have you been experiencing these symptoms?"", ""What other symptoms are you experiencing?"", ""Have you experienced any loss of appetite?""]
+
+Ranked:
+[3, 1, 2]"
+"Context:
+Doctor: How old are you madam?
+Patient: I am seventy-five. I have been feeling very weak and shaky.
+Doctor: Can you tell me how this all started?
+Patient: I cannot catch a breath when I walk. It is getting harder to move around.
+Doctor: Hm, how about chest pain or palpitations?
+Patient: No, I am not having any.
+Doctor: Do you have any cough, bloody sputum or any wheezing sensation?
+Patient: No, I do not haveany of that.
+Doctor: How about any fainting spells, feeling like you are going to pass out?
+Patient: Nope.
+
+Questions:
+[""What other symptoms do you experience?"", ""Are there any other problems that affect your daily life?"", ""How does your heart feel? Does it feel like it's beating too fast or too slow?""]
+
+Ranked:
+[3, 1, 2]"
+"Context:
+Doctor: How're you feeling?
+Patient: My head still hurts.
+Doctor: How often do you get migraine headaches?
+Patient: Once in a while. I think it's worse when the weather changes.
+
+Questions:
+[""Okay, thank you for providing me with that information. Now I would like to ask you a few more questions that could help me determine a possible cause for your headaches."", ""I understand that weather changes trigger your headaches, but let me clarify a few more things to make a proper diagnosis. Are there any other factors that trigger your headaches?"", ""Also, how long does your headache usually last when it occurs?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: So, tell me any chest pain or shortness of breath?
+Patient: No, none of those.
+
+Questions:
+[""Are there any other symptoms you are experiencing?"", ""Have you noticed any change in your breathing pattern?"", ""Have you been coughing up anything unusual?""]
+
+Ranked:
+[3, 1, 2]"
+"Context:
+Doctor: Any past surgeries I should know of?
+Patient: Uh yes. I had a femur fracture repaired.
+Doctor: Do you remember which side?
+Patient: It was on the right.
+
+Questions:
+[""What was your reason for visiting today?"", ""How did your femur fracture happen?"", ""Did it cause any complications after your surgery?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: Hello there!
+Patient: Hi, how are you?
+Doctor: I am good. Do ypu mind stating your age and waht brings you in today?
+Patient: Oh, yes, I am 85 years old and I am having this weird muscle pain in my rightbuttocks region that I think it's radiating from my lower back or spine area I am not sure.
+Doctor: Hm, what kind of pain is it? Like sharp pain or dull?
+Patient: It's kind of difficult to explain, but it's very irritating.
+Doctor: Okay! So, it's on the right side?
+Patient: Yes.
+Doctor: And when was your last visit to renal clinic?
+Patient: About four months back.
+Doctor: Hm and you mentioned you are doing much better than before in terms of managing your high blood pressure with the current medication?
+Patient: Oh yes, absolutely I am doing so much better. I think earlier the nurse mentioned she has never seen my blood pressure this good.
+Doctor: Yes, it is much better than any of your previous visits. And no side effects, right?
+Patient: No.
+Doctor: Hm, and any other problem or any uneasiness?
+Patient: Not really.
+Doctor: Any nausea, vomiting or diarrhea?
+Patient: No.
+Doctor: Any weakness, dizziness or lightheadedness?
+Patient: Nope.
+Doctor: Any constipation or stomach pain?
+Patient: No, I think just the hip pain.
+Doctor: Any shortness of breath, chest pain or difficulty breathing?
+Patient: I am fine no issues there.
+Doctor: How bout any breathing issues while you sleep or when you lay down?
+Patient: No.
+Doctor: And do you exercise?
+Patient: It is same as before not much difference.
+Doctor: Okay.
+Patient: Right now, it is just this hip pain which is bothering me.
+Doctor: And you mention it is kind of radiating from your lower back.
+Patient: Yeah, kind of like from my spine maybe, I am not sure.
+Doctor: And no pain in your toes or lower legs?
+Patient: No.
+Doctor: Okay, did you try any medicines?
+Patient: Yes, I did try some Tylenol but that's it. It does help a bit.
+Doctor: Okay, let's try something stronger, I will write you a prescription for it. You can take it for a week and if your pain does not improve, we will take some x rays.
+Doctor: How old are you again eighty-five?
+Patient: Yes.
+
+Questions:
+[""Is it okay if I examine your hip and leg for a moment?"", ""Did you try a hot shower, a hot bath, or applying heat on your hip for a while?"", ""Have you tried using a heating pad on your hip?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: Hello there!
+Patient: Hi, how are you?
+Doctor: I am good. Do ypu mind stating your age and waht brings you in today?
+Patient: Oh, yes, I am 85 years old and I am having this weird muscle pain in my rightbuttocks region that I think it's radiating from my lower back or spine area I am not sure.
+Doctor: Hm, what kind of pain is it? Like sharp pain or dull?
+Patient: It's kind of difficult to explain, but it's very irritating.
+Doctor: Okay! So, it's on the right side?
+Patient: Yes.
+Doctor: And when was your last visit to renal clinic?
+Patient: About four months back.
+Doctor: Hm and you mentioned you are doing much better than before in terms of managing your high blood pressure with the current medication?
+Patient: Oh yes, absolutely I am doing so much better. I think earlier the nurse mentioned she has never seen my blood pressure this good.
+Doctor: Yes, it is much better than any of your previous visits. And no side effects, right?
+Patient: No.
+Doctor: Hm, and any other problem or any uneasiness?
+Patient: Not really.
+Doctor: Any nausea, vomiting or diarrhea?
+Patient: No.
+Doctor: Any weakness, dizziness or lightheadedness?
+Patient: Nope.
+Doctor: Any constipation or stomach pain?
+Patient: No, I think just the hip pain.
+Doctor: Any shortness of breath, chest pain or difficulty breathing?
+Patient: I am fine no issues there.
+Doctor: How bout any breathing issues while you sleep or when you lay down?
+Patient: No.
+Doctor: And do you exercise?
+Patient: It is same as before not much difference.
+
+Questions:
+[""Do you have a history of back problems?"", ""Have you had a similar pain before?"", ""Have you had any falls?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: Hello there!
+Patient: Hi, how are you?
+Doctor: I am good. Do ypu mind stating your age and waht brings you in today?
+Patient: Oh, yes, I am 85 years old and I am having this weird muscle pain in my rightbuttocks region that I think it's radiating from my lower back or spine area I am not sure.
+Doctor: Hm, what kind of pain is it? Like sharp pain or dull?
+Patient: It's kind of difficult to explain, but it's very irritating.
+Doctor: Okay! So, it's on the right side?
+Patient: Yes.
+Doctor: And when was your last visit to renal clinic?
+Patient: About four months back.
+Doctor: Hm and you mentioned you are doing much better than before in terms of managing your high blood pressure with the current medication?
+Patient: Oh yes, absolutely I am doing so much better. I think earlier the nurse mentioned she has never seen my blood pressure this good.
+Doctor: Yes, it is much better than any of your previous visits. And no side effects, right?
+Patient: No.
+
+Questions:
+[""So tell me about your current medication for high blood pressure?"", ""Have you tried anything at home for your pain?"", ""When was your last visit to a physical therapy clinic?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: Hello there!
+Patient: Hi, how are you?
+Doctor: I am good. Do ypu mind stating your age and waht brings you in today?
+Patient: Oh, yes, I am 85 years old and I am having this weird muscle pain in my rightbuttocks region that I think it's radiating from my lower back or spine area I am not sure.
+Doctor: Hm, what kind of pain is it? Like sharp pain or dull?
+Patient: It's kind of difficult to explain, but it's very irritating.
+
+Questions:
+[""Could you rate your pain on a scale from 1 to 10?"", ""Have you been experiencing this pain for a long time or did it start recently?"", ""Have you been taking any medications for your pain?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: Hello there!
+Patient: Hi, how are you?
+
+Questions:
+[""How are you?"", ""How's your family?"", ""What brings you in today?""]
+
+Ranked:
+[3, 1, 2]"
+"Context:
+Doctor: Hello there!
+Patient: Hi, how are you?
+Doctor: I am good. Do ypu mind stating your age and waht brings you in today?
+Patient: Oh, yes, I am 85 years old and I am having this weird muscle pain in my rightbuttocks region that I think it's radiating from my lower back or spine area I am not sure.
+Doctor: Hm, what kind of pain is it? Like sharp pain or dull?
+Patient: It's kind of difficult to explain, but it's very irritating.
+Doctor: Okay! So, it's on the right side?
+Patient: Yes.
+Doctor: And when was your last visit to renal clinic?
+Patient: About four months back.
+Doctor: Hm and you mentioned you are doing much better than before in terms of managing your high blood pressure with the current medication?
+Patient: Oh yes, absolutely I am doing so much better. I think earlier the nurse mentioned she has never seen my blood pressure this good.
+Doctor: Yes, it is much better than any of your previous visits. And no side effects, right?
+Patient: No.
+Doctor: Hm, and any other problem or any uneasiness?
+Patient: Not really.
+Doctor: Any nausea, vomiting or diarrhea?
+Patient: No.
+Doctor: Any weakness, dizziness or lightheadedness?
+Patient: Nope.
+Doctor: Any constipation or stomach pain?
+Patient: No, I think just the hip pain.
+Doctor: Any shortness of breath, chest pain or difficulty breathing?
+Patient: I am fine no issues there.
+Doctor: How bout any breathing issues while you sleep or when you lay down?
+Patient: No.
+Doctor: And do you exercise?
+Patient: It is same as before not much difference.
+Doctor: Okay.
+Patient: Right now, it is just this hip pain which is bothering me.
+Doctor: And you mention it is kind of radiating from your lower back.
+Patient: Yeah, kind of like from my spine maybe, I am not sure.
+
+Questions:
+[""So it's more of a burning sensation than a sharp pain?"", ""Have you tried taking an over the counter pain medication for this?"", ""Have you noticed any swelling or redness in the affected area?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: Hello there!
+Patient: Hi, how are you?
+Doctor: I am good. Do ypu mind stating your age and waht brings you in today?
+Patient: Oh, yes, I am 85 years old and I am having this weird muscle pain in my rightbuttocks region that I think it's radiating from my lower back or spine area I am not sure.
+Doctor: Hm, what kind of pain is it? Like sharp pain or dull?
+Patient: It's kind of difficult to explain, but it's very irritating.
+Doctor: Okay! So, it's on the right side?
+Patient: Yes.
+Doctor: And when was your last visit to renal clinic?
+Patient: About four months back.
+Doctor: Hm and you mentioned you are doing much better than before in terms of managing your high blood pressure with the current medication?
+Patient: Oh yes, absolutely I am doing so much better. I think earlier the nurse mentioned she has never seen my blood pressure this good.
+Doctor: Yes, it is much better than any of your previous visits. And no side effects, right?
+Patient: No.
+Doctor: Hm, and any other problem or any uneasiness?
+Patient: Not really.
+Doctor: Any nausea, vomiting or diarrhea?
+Patient: No.
+Doctor: Any weakness, dizziness or lightheadedness?
+Patient: Nope.
+Doctor: Any constipation or stomach pain?
+Patient: No, I think just the hip pain.
+Doctor: Any shortness of breath, chest pain or difficulty breathing?
+Patient: I am fine no issues there.
+Doctor: How bout any breathing issues while you sleep or when you lay down?
+Patient: No.
+Doctor: And do you exercise?
+Patient: It is same as before not much difference.
+Doctor: Okay.
+Patient: Right now, it is just this hip pain which is bothering me.
+Doctor: And you mention it is kind of radiating from your lower back.
+Patient: Yeah, kind of like from my spine maybe, I am not sure.
+Doctor: And no pain in your toes or lower legs?
+Patient: No.
+Doctor: Okay, did you try any medicines?
+Patient: Yes, I did try some Tylenol but that's it. It does help a bit.
+
+Questions:
+[""How long has this pain been bothering you?"", ""Can you rate your pain on a scale from 1 to 10?"", ""Did you have any sudden movements before experiencing this pain?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: Hello there!
+Patient: Hi, how are you?
+Doctor: I am good. Do ypu mind stating your age and waht brings you in today?
+Patient: Oh, yes, I am 85 years old and I am having this weird muscle pain in my rightbuttocks region that I think it's radiating from my lower back or spine area I am not sure.
+Doctor: Hm, what kind of pain is it? Like sharp pain or dull?
+Patient: It's kind of difficult to explain, but it's very irritating.
+Doctor: Okay! So, it's on the right side?
+Patient: Yes.
+Doctor: And when was your last visit to renal clinic?
+Patient: About four months back.
+Doctor: Hm and you mentioned you are doing much better than before in terms of managing your high blood pressure with the current medication?
+Patient: Oh yes, absolutely I am doing so much better. I think earlier the nurse mentioned she has never seen my blood pressure this good.
+Doctor: Yes, it is much better than any of your previous visits. And no side effects, right?
+Patient: No.
+Doctor: Hm, and any other problem or any uneasiness?
+Patient: Not really.
+
+Questions:
+[""What type of pain is it?"", ""How long have you been experiencing this pain?"", ""Have you been able to perform your usual activities without difficulty?""]
+
+Ranked:
+[1, 3, 2]"
+"Context:
+Doctor: Hello, miss. How was your weekend?
+Patient: It was fun. I went to a party, but now my back hurts.
+Doctor: I see. Did you drink alcohol at the party?
+Patient: Just a little. I only drink when I go to special occasions.
+
+Questions:
+[""Is your back still causing pain?"", ""Did you take anything for your back pain?"", ""How long have you been experiencing back pain?""]
+
+Ranked:
+[3, 1, 2]"
+"Context:
+Doctor: Do you have any personal history of heart disease or diabetes?
+Patient: No, but I do have high blood pressure.
+Doctor: Any family history of heart disease, diabetes or hypertension?
+Patient: No, none that I know of.
+
+Questions:
+[""What would be your diet and lifestyle habits?"", ""How often do you exercise?"", ""What do you eat regularly?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: I'm sorry to see that she's not doing well.
+Guest_family: I can't even begin to tell you how hard this past week has been for us. She has had so much congestion. She's also coughed more than she ever has before. She is only two months old and it breaks my heart to see her like this.
+
+Questions:
+[""Have her breathing patterns changed?"", ""Have you noticed a change in her oxygen levels?"", ""What is her current temperature?""]
+
+Ranked:
+[1, 2, 3]"
+"Context:
+Doctor: I'm sorry to see that she's not doing well.
+Guest_family: I can't even begin to tell you how hard this past week has been for us. She has had so much congestion. She's also coughed more than she ever has before. She is only two months old and it breaks my heart to see her like this.
+Doctor: Oh wow. We'll see what we can do for her. How's her breathing been?
+Guest_family: She's had some irregular breathing where she would breathe very quickly and retract.
+Doctor: Has she been running a fever?
+Guest_family: She's been running in the hundreds between one O two and one O four.
+
+Questions:
+[""Have you tried nasal suctioning?"", ""How is her drinking?"", ""Have you noticed any changes in her skin coloration?""]
+
+Ranked:
+[3, 1, 2]"
+"Context:
+Doctor: I'm sorry to see that she's not doing well.
+Guest_family: I can't even begin to tell you how hard this past week has been for us. She has had so much congestion. She's also coughed more than she ever has before. She is only two months old and it breaks my heart to see her like this.
+Doctor: Oh wow. We'll see what we can do for her. How's her breathing been?
+Guest_family: She's had some irregular breathing where she would breathe very quickly and retract.
+Doctor: Has she been running a fever?
+Guest_family: She's been running in the hundreds between one O two and one O four.
+Doctor: Has she been feeding well?
+Guest_family: No, not at all. She's been feeding less and I notice she hasn't had as many wet diapers as a result.
+
+Questions:
+[""What's the typical course of treatment for a child with these symptoms?"", ""Are there any other symptoms that she's been displaying?"", ""Has she been having trouble sleeping due to her illness?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: Hey what you got there?
+Patient: I got this boil type of situation going on on my butt.
+
+Questions:
+[""What symptoms have you experienced with this boil?"", ""Have you tried treating it with any over the counter medication?"", ""Have you experienced any rupture in this boil yet?""]
+
+Ranked:
+[3, 1, 2]"
+"Context:
+Doctor: How's everything going on?
+Patient: I'm having this weird feeling where I feel that my face is going to twitch and I start doing these grimacing actions on my face, mouth, and then it kind of suppresses it, but I'm not sure what's happening. I'm still having a fear of feeling of pressure in the backside of my head and it comes approximately like once each week.
+Doctor: What exactly does this pressure feels like?
+Patient: It feels like pins and needles in my head and a lot of pressure and often it feels like water is running down my hair.
+Doctor: How frequent are these feelings? Is anything helping you? Are you taking any medications or anything else for it?
+Patient: It is like I said before, like once a week maybe. It has decreased from before. I am taking Aleve and it is kind of helping me.
+
+Questions:
+[""Is there any particular reason for these twitching and grimacing actions?"", ""Have you noticed any other symptoms recently?"", ""Have you been able to get a good night's sleep recently?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: How's everything going on?
+Patient: I'm having this weird feeling where I feel that my face is going to twitch and I start doing these grimacing actions on my face, mouth, and then it kind of suppresses it, but I'm not sure what's happening. I'm still having a fear of feeling of pressure in the backside of my head and it comes approximately like once each week.
+Doctor: What exactly does this pressure feels like?
+Patient: It feels like pins and needles in my head and a lot of pressure and often it feels like water is running down my hair.
+
+Questions:
+[""When did this start happening?"", ""Has anything changed in your lifestyle or diet recently?"", ""Have you tried any medications or remedies for this issue?""]
+
+Ranked:
+[3, 1, 2]"
+"Context:
+Doctor: Have you ever had surgery on any of your extremities, like your arms or legs?
+Patient: Yes actually, I've had surgery on my foot, as well as my knee.
+
+Questions:
+[""What was your foot surgery for?"", ""When was your knee surgery performed?"", ""Did your foot surgery involve a specific joint in your foot?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: Hello. It has been a long time. Nice to see you again. How can I help?
+Patient: I am here for a physical. Nothing new and nothing has changed, but I think it's good to be seen once a year.
+
+Questions:
+[""When did your last physical?"", ""Have you had any issues since your last physical?"", ""How long has it been since your last physical?""]
+
+Ranked:
+[1, 2, 3]"
+"Context:
+Doctor: Hi, I'm the doctor that'll be treating you today.
+Patient: Hiya. Sounds good.
+Doctor: What's bringing you in?
+Patient: A big ol lump in my chest.
+Doctor: How long since you first noticed it?
+Patient: It's been there for at least a year.
+Doctor: Where on your chest?
+Patient: On the left side.
+
+Questions:
+[""How long have you been experiencing chest discomfort?"", ""Have there been any changes in your appetite or weight loss recently?"", ""Are there any other symptoms such as shortness of breath, coughing, or fatigue that you've been experiencing alongside this chest lump?""]
+
+Ranked:
+[3, 1, 2]"
+"Context:
+Doctor: Hi, I'm the doctor that'll be treating you today.
+Patient: Hiya. Sounds good.
+Doctor: What's bringing you in?
+Patient: A big ol lump in my chest.
+Doctor: How long since you first noticed it?
+Patient: It's been there for at least a year.
+Doctor: Where on your chest?
+Patient: On the left side.
+Doctor: Is it causing you pain?
+Patient: Um kind of it. It's gotten a lot more tender, and it hurts when I take deep breaths.
+
+Questions:
+[""It's been there for at least a year"", ""It's gotten a lot more tender"", ""it hurts when I take deep breaths""]
+
+Ranked:
+[1, 2, 3]"
+"Context:
+Doctor: How's she doing today?
+Guest_family: She's been blowing up green snot and complaing of ear pain.
+
+Questions:
+[""When did the symptoms begin?"", ""Does she have a fever?"", ""How long have her symptoms been present?""]
+
+Ranked:
+[2, 3, 1]"
+"Context:
+Doctor: How old is the baby girl?
+Guest_family: She is two and a half years old.
+Doctor: And you both are her parents?
+Guest_family: Yes.
+
+Questions:
+[""What is your family's medical history like?"", ""How has your daughter been doing since her last visit to our hospital?"", ""What are her usual sleeping habits like?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: How old is the baby girl?
+Guest_family: She is two and a half years old.
+Doctor: And you both are her parents?
+Guest_family: Yes.
+Doctor: Tell me what happened in detail.
+Guest_family: She has a history of seizures. She used to have shakes and lose consciousness.
+Doctor: Was she taking any medications for that?
+Guest_family: Yeah, she was placed on Keppra solution one hundred and fifty M G for two times a day. It helped a lot and she was doing fine. Her seizures were improving a lot but recently we have noticed something similar again.
+
+Questions:
+[""How long has she been experiencing these seizures again?"", ""Has she had any recent changes in her diet or activity level?"", ""How has she been reacting to these seizures?""]
+
+Ranked:
+[1, 3, 2]"
+"Context:
+Doctor: How old is the baby girl?
+Guest_family: She is two and a half years old.
+Doctor: And you both are her parents?
+Guest_family: Yes.
+Doctor: Tell me what happened in detail.
+Guest_family: She has a history of seizures. She used to have shakes and lose consciousness.
+
+Questions:
+[""What are her usual medications?"", ""Is there a family history of seizures?"", ""Did she have any other symptoms?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: How old is the baby girl?
+Guest_family: She is two and a half years old.
+
+Questions:
+[""Can you show me where she is having pain?"", ""Does she have a fever?"", ""Have you checked her temperature?""]
+
+Ranked:
+[3, 1, 2]"
+"Context:
+Doctor: Do you have any major medical conditions that run in your family that I should know about?
+Patient: What do you mean by that, doctor?
+
+Questions:
+[""How long does it typically take for your symptoms to occur?"", ""Could your symptoms be caused by a food allergy?"", ""Have you noticed any changes in your weight over time?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: Is she taking any medications?
+Guest_family: Um uh I wrote them down. Let me find the Post-it note. I had it right here.
+
+Questions:
+[""How long has your wife been experiencing these symptoms and when did they start occurring?"", ""Is your wife's condition causing her to be short of breath when exerting effort, such as climbing stairs or carrying groceries?"", ""Have you observed any changes in her appetite or weight loss recently?""]
+
+Ranked:
+[3, 1, 2]"
+"Context:
+Doctor: And you're allergic to Sulfa drugs, correct?
+Patient: Yes, ma'am.
+
+Questions:
+[""What's your experience with taking medications?"", ""Have you had any adverse reactions before?"", ""How do your symptoms change when taking these medications?""]
+
+Ranked:
+[2, 1, 3]"
+"Context:
+Doctor: So what brings you in today?
+Patient: Um I think I'm due for a checkup. While I'm here, I also wanted to figure out why I'm having so much joint pain all over.
+
+Questions:
+[""What is your age?"", ""When did this joint pain start?"", ""Can you describe your joint pain in more detail?""]
+
+Ranked:
+[3, 1, 2]"
+"Context:
+Doctor: Have you ever taken any prescribed drug for your headaches.
+Patient: No.
+Doctor: What do you take when you get headaches.
+Patient: I try not to take to much medication but when they get really bad, I take Excedrin or ibuprofen.
+
+Questions:
+[""What other symptoms do your headaches cause?"", ""Are there certain times of day when your headaches are worse?"", ""Have you experienced any visual disturbances along with your headaches?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: Do you smoke, sir?
+Patient: No, that never appealed to me.
+
+Questions:
+[""How often?"", ""How long have you been a nonsmoker?"", ""When did you quit?""]
+
+Ranked:
+[1, 3, 2]"
+"Context:
+Doctor: So, what's going on with your hand, miss? Is it right or left?
+Patient: It's the right one. It's been on and off and it's been happening for the last several weeks.
+Doctor: Can you elaborate what's happening?
+Patient: Sometimes I feel like a lot of pins and needles are hurting my hand while other times it is totally numb.
+
+Questions:
+[""What have you been doing recently that is different from before when you felt fine?"", ""Have you been using your hand for repetitive tasks?"", ""Have you been experiencing any other symptoms?""]
+
+Ranked:
+[3, 1, 2]"
+"Context:
+Doctor: So, what's going on with your hand, miss? Is it right or left?
+Patient: It's the right one. It's been on and off and it's been happening for the last several weeks.
+Doctor: Can you elaborate what's happening?
+Patient: Sometimes I feel like a lot of pins and needles are hurting my hand while other times it is totally numb.
+Doctor: Did anything change in your daily routine?
+Patient: I don't think there have been any big changes. But after I started having these episodes of numbness and tingling, I moved my keyboard down at work. I just hope that it will help. I was just worried if I had carpal tunnel.
+Doctor: What does a normal day look like? What is it like at work?
+Patient: I have a typical office job. I sit in front of the computer for eight hours and mostly work on a keyboard. I hardly take two coffee breaks in between and a lunch break. It is the same kind of thing I'm doing again and again every day.
+Doctor: Is it the same day or night?
+Patient: Oh, it is bad at night, how I'm sleeping. If I sleep in a certain way, then I will wake up with a lot of tingling. Then I must literally shake my hands out to get rid of this tingling. It's just-- it's all so much an it irritates me that it's affecting my mental health.
+Doctor: Is it in your whole hand or some specific fingers?
+Patient: It is mostly in my middle finger, but sometimes I also get this on the first or the second finger of my right hand. Sometimes I have pain in my thumb as well. Do you think it is arthritis?
+
+Questions:
+[""What other symptoms are you experiencing?"", ""Have you tried taking breaks during the day?"", ""Have you been experiencing any other health issues?""]
+
+Ranked:
+[1, 3, 2]"
+"Context:
+Guest_family: They just changed his P bag, that's why there is no pee in it.
+Doctor: Okay. Yes, it looks empty. I think they did a straight cath.
+Guest_family: Yeah, and they took out the urine to send it to the lab.
+
+Questions:
+[""What are your symptoms at this time?"", ""How long has it been since your last visit with a healthcare professional?"", ""Have you noticed any changes in your urine output recently?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Guest_family: They just changed his P bag, that's why there is no pee in it.
+Doctor: Okay. Yes, it looks empty. I think they did a straight cath.
+Guest_family: Yeah, and they took out the urine to send it to the lab.
+Doctor: Okay. Yes, there were no leukocyte seen. That means no infection.
+Guest_family: But they said there was blood?
+Doctor: Yes, during catheterization but the urine is normal.
+Guest_family: Okay.
+Doctor: In your x ray there was stool seen in the colon.
+Guest_family: Okay.
+Guest_family_2: He is fine?
+Doctor: Yeah, he is fine. I can see that he is very active. Jumping up and down.
+
+Questions:
+[""What was the purpose of sending urine to the lab?"", ""How long does it take for blood to appear in urine?"", ""What kind of test are they doing on the urine?""]
+
+Ranked:
+[3, 1, 2]"
+"Context:
+Doctor: Is there any relevant medical history or medical issues going on in your family in present or in past?
+Patient: No, nothing that I could remember.
+
+Questions:
+[""Are there any conditions that could be hereditary in your family?"", ""Has anyone in your family experienced early death due to health issues?"", ""What do your parents do for work?""]
+
+Ranked:
+[3, 1, 2]"
+"Context:
+Guest_clinician: How's the patient doing?
+
+Questions:
+[""How long have they been in pain?"", ""Have they taken any medications for pain relief?"", ""Have they tried any other methods for pain relief?""]
+
+Ranked:
+[1, 2, 3]"
+"Context:
+Patient: I just had few questions. Can you tell me about my diagnosis?
+Doctor: Sure. It's called Serotonin syndrome, ma'am. After careful evaluation of your labs, we found out that your white count and C P K was high, and those abnormalities lined up with serotonin syndrome. What are you experiencing right now?
+Patient: I have been very restless and easily agitated, I have diarrhea. But no fever or shakiness.
+
+Questions:
+[""What makes you feel this way?"", ""Did your symptoms start after taking a medication?"", ""Have you been taking any supplements or herbal remedies?""]
+
+Ranked:
+[2, 3, 1]"
+"Context:
+Patient: I just had few questions. Can you tell me about my diagnosis?
+
+Questions:
+[""How do I know if I have a good level of serotonin?"", ""How do I know if I have a high level of serotonin?"", ""How do I know if I have a low level of serotonin?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: Welcome to the clinic, miss.
+Patient: Thank you.
+Doctor: What brings you to the clinic today?
+Patient: I am concerned that I have been having small seizures again.
+Doctor: Do you have a history of epilepsy?
+Patient: Yes, I do. I also have had non epileptic issues in the past.
+Doctor: Okay. What makes you feel like you are having seizures again?
+Patient: In the mornings I have been waking up with strange body aches and feeling confused. I have felt these feelings before after having seizures in the past. I live alone now so I don't know if I had a seizure or not.
+Doctor: Okay. Do you have weakness when you wake up?
+Patient: Yes. It also happens while I am at work at my desk. I work alone in my office most of the day so no one is around to notice what might be happening.
+
+Questions:
+[""What other symptoms have you noticed?"", ""When do these symptoms occur most frequently?"", ""Have you been having any headaches?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: Welcome to the clinic, miss.
+Patient: Thank you.
+Doctor: What brings you to the clinic today?
+Patient: I am concerned that I have been having small seizures again.
+Doctor: Do you have a history of epilepsy?
+Patient: Yes, I do. I also have had non epileptic issues in the past.
+Doctor: Okay. What makes you feel like you are having seizures again?
+Patient: In the mornings I have been waking up with strange body aches and feeling confused. I have felt these feelings before after having seizures in the past. I live alone now so I don't know if I had a seizure or not.
+Doctor: Okay. Do you have weakness when you wake up?
+Patient: Yes. It also happens while I am at work at my desk. I work alone in my office most of the day so no one is around to notice what might be happening.
+Doctor: Okay. That is good to know. How old are you?
+Patient: I am forty six.
+
+Questions:
+[""Are your seizures typically in the morning?"", ""How long have these symptoms been going on for?"", ""Have you had any recent changes in your medication?""]
+
+Ranked:
+[3, 1, 2]"
+"Context:
+Doctor: Welcome to the clinic, miss.
+Patient: Thank you.
+Doctor: What brings you to the clinic today?
+Patient: I am concerned that I have been having small seizures again.
+Doctor: Do you have a history of epilepsy?
+Patient: Yes, I do. I also have had non epileptic issues in the past.
+
+Questions:
+[""How long have these seizures been occurring?"", ""Have they been more frequent since your last visit?"", ""Can you describe your symptoms?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: We have placed this nasogastric tube for decompression.
+Guest_family: Okay.
+
+Questions:
+[""What is your current diet plan and how is it working for you?"", ""Are you experiencing any pain or discomfort with this tube?"", ""Have you noticed any changes in your appetite since we placed this tube?""]
+
+Ranked:
+[3, 1, 2]"
+"Context:
+Doctor: We are following up with you for your prostate cancer which has metastasized to your bladder and in several locations throughout your body including the spine and shoulder.
+Patient: Yes, you remember I had blood in my urine in the past, but I think it is coming back. I started noticing that from yesterday, and today I saw a lot of blood with very little urine.
+
+Questions:
+[""How long has it been since your last blood test?"", ""Have you been feeling any other symptoms related to your prostate cancer?"", ""What is your current medication regimen?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: We are following up with you for your prostate cancer which has metastasized to your bladder and in several locations throughout your body including the spine and shoulder.
+Patient: Yes, you remember I had blood in my urine in the past, but I think it is coming back. I started noticing that from yesterday, and today I saw a lot of blood with very little urine.
+Doctor: Oh okay, we will have to evaluate that then. Let me ask you few other questions to get this out of the way. How about your back pain, how's it? Also any incontinence?
+Patient: Okay sure. No, there is no change in my chronic lower back pain, and no, no incontinence, urinary or stool.
+Doctor: All right. How about fever, belly pain, nausea or vomiting?
+Patient: No to everything.
+Doctor: Are you able to pee noramally and pass urine, you aren't retaining? How about blood in stools?
+Patient: Yes, I am passing everything well. No blood in stools.
+Doctor: Okay. Can you tell me if you have finished your chemo?
+Patient: Yes, I have already completed chemo. Now they started me with radiation therapy, but it is only targeted to the bones. They told me I will feel well as in there won't be any pain. It's not supposed to treat or cure the cancer, but just to make me comfortable.
+Doctor: Yes, we are looking at that at this point.
+Patient: Okay.
+Doctor: Do you have any hospice care facility listed?
+Patient: No, I haven't looked at it yet, but I would love to look at hospice facilities.
+
+Questions:
+[""What are your bowel movements like?"", ""How frequently do you urinate?"", ""Are there any other symptoms that we haven't discussed yet that you're experiencing?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: Hello. I see you're here for a follow up.
+Patient: Yeah, I am. I've been having some problems on my right side under my ribs.
+Doctor: I see. Is it fine if I go over your medical history?
+Patient: Yeah, that's fine.
+
+Questions:
+[""Sure thing!"", ""What exactly are your symptoms?"", ""When did they start?""]
+
+Ranked:
+[3, 1, 2]"
+"Context:
+Doctor: His fever is running very high, I think he is having a febrile seizure.
+Guest_clinician: Yeah, I think so too.
+Guest_family: Is he going to be okay?
+
+Questions:
+[""What medications are available for treating febrile seizures?"", ""Should we administer any other emergency treatment?"", ""What other symptoms should we watch out for while we're waiting for medical assistance?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: Do you have a history of alcohol or drug abuse?
+Patient: I have had a drink on special occasions, but I don't drink. And I have never ever done drugs.
+
+Questions:
+[""What type of drink do you consume?"", ""How often do you drink on special occasions?"", ""Are there any specific times when you drink?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: What are you taking?
+Patient: You mean meds?
+Doctor: Yes, sir.
+Patient: Actually, that nurse asked me already and reviewed it with me. Do you want me to tell you again?
+Doctor: No let me check the chart then.
+Patient: Okay.
+
+Questions:
+[""Have you noticed any changes in your vision recently?"", ""Have you experienced any dizziness or lightheadedness?"", ""Do you take any herbal supplements?""]
+
+Ranked:
+[1, 3, 2]"
+"Context:
+Doctor: Good afternoon, sir, before we begin, how old are you?
+Patient: I'm twenty-six years old, sir.
+Doctor: Good, and what race do you identify with?
+Patient: I'm an African American, sir.
+Doctor: Great, so how did you get hurt?
+Patient: I stepped off a hilo at work, and I felt this pop in my left leg.
+
+Questions:
+[""What symptoms have you experienced since the injury?"", ""Have you noticed any swelling or bruising in your leg?"", ""Have you experienced any numbness or tingling in your leg?""]
+
+Ranked:
+[1, 2, 3]"
+"Context:
+Doctor: Can you tell me more about your son, ma'am?
+Guest_family: Well, I have his reports from his school right here.
+Doctor: What do they say?
+Guest_family: Well, in summary, he's having a lot of problems at school.
+Doctor: What kind of problems is he having?
+Guest_family: Well, he has been asking an unusual number of questions, and he's been obsessed with cleaning and cleanness.
+Doctor: What about his interactions with his classmates?
+Guest_family: According to the reports from his school, he doesn't relate well in the classroom.
+Doctor: How is his mood?
+Guest_family: Well, he seems to be confused and depressed sometimes.
+Doctor: Is he still asking a lot of questions in class?
+Guest_family: It's come down a little bit recently.
+
+Questions:
+[""What specifically do these reports indicate about his interactions with his classmates?"", ""Could you tell me more about his obsessions with cleaning and cleanliness?"", ""What do these reports suggest about his relationship with his family and friends?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: Can you tell me more about your son, ma'am?
+Guest_family: Well, I have his reports from his school right here.
+Doctor: What do they say?
+Guest_family: Well, in summary, he's having a lot of problems at school.
+Doctor: What kind of problems is he having?
+Guest_family: Well, he has been asking an unusual number of questions, and he's been obsessed with cleaning and cleanness.
+Doctor: What about his interactions with his classmates?
+Guest_family: According to the reports from his school, he doesn't relate well in the classroom.
+Doctor: How is his mood?
+Guest_family: Well, he seems to be confused and depressed sometimes.
+Doctor: Is he still asking a lot of questions in class?
+Guest_family: It's come down a little bit recently.
+Doctor: Are there any other unusual behaviors you've seen?
+Guest_family: Um, he used to collect old little toys when he was younger, and he's started doing that again.
+
+Questions:
+[""What was his favorite subject in school?"", ""What activities did he enjoy before?"", ""Did he have friends in school?""]
+
+Ranked:
+[1, 3, 2]"
+"Context:
+Doctor: Can you tell me more about your son, ma'am?
+Guest_family: Well, I have his reports from his school right here.
+
+Questions:
+[""Who are these reports from?"", ""Are these reports from his school?"", ""Is this information enough for me?""]
+
+Ranked:
+[3, 1, 2]"
+"Context:
+Doctor: Can you tell me more about your son, ma'am?
+Guest_family: Well, I have his reports from his school right here.
+Doctor: What do they say?
+Guest_family: Well, in summary, he's having a lot of problems at school.
+Doctor: What kind of problems is he having?
+Guest_family: Well, he has been asking an unusual number of questions, and he's been obsessed with cleaning and cleanness.
+Doctor: What about his interactions with his classmates?
+Guest_family: According to the reports from his school, he doesn't relate well in the classroom.
+Doctor: How is his mood?
+Guest_family: Well, he seems to be confused and depressed sometimes.
+Doctor: Is he still asking a lot of questions in class?
+Guest_family: It's come down a little bit recently.
+Doctor: Are there any other unusual behaviors you've seen?
+Guest_family: Um, he used to collect old little toys when he was younger, and he's started doing that again.
+Doctor: I see, what are his plans for the summer, will he be in classes?
+Guest_family: He'll be in a social skills program this summer, doctor.
+Doctor: I see here as well that A B C D has referred him to two psychologists for functional behavioral analysis, is that correct?
+Guest_family: Yes, doctor, that's correct.
+
+Questions:
+[""What other behaviors have been observed in him?"", ""How has he been acting at home?"", ""How often does he seem confused and depressed?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: Hm so it looks like you saw your cardiologist last week, correct?
+Patient: Yeah.
+
+Questions:
+[""What were they concerned about that brought you in for a consultation in the first place?"", ""How long have you been experiencing these symptoms?"", ""Could you please explain your symptoms in a little more detail for me?""]
+
+Ranked:
+[2, 1, 3]"
+"Context:
+Doctor: Hello, ma'am. I see you brought your baby daughter in today. Is she a new patient?
+Guest_family: Hello, I am her mother. She is a new patient.
+Doctor: Before we begin, could you verify her age and ethnicity, please?
+Guest_family: She is a little over one years old, and we identify as black.
+Doctor: Thank you. How did you hear about our dermatology office?
+Guest_family: Well, we just came from Tanzania, my birthplace. I have been seeing this odd skin issue with my baby, so I took her to the A B C Practice. After, they sent me here so that you can check her skin problem.
+Doctor: I see. Do you have a report from the A B C Practice?
+Guest_family: I do. Here you go.
+
+Questions:
+[""Did she have any other skin issues in Tanzania?"", ""Are there any other family members with similar skin conditions?"", ""Have you noticed any recent changes in her skin?""]
+
+Ranked:
+[3, 1, 2]"
+"Context:
+Doctor: Hello, ma'am. I see you brought your baby daughter in today. Is she a new patient?
+Guest_family: Hello, I am her mother. She is a new patient.
+Doctor: Before we begin, could you verify her age and ethnicity, please?
+Guest_family: She is a little over one years old, and we identify as black.
+Doctor: Thank you. How did you hear about our dermatology office?
+Guest_family: Well, we just came from Tanzania, my birthplace. I have been seeing this odd skin issue with my baby, so I took her to the A B C Practice. After, they sent me here so that you can check her skin problem.
+Doctor: I see. Do you have a report from the A B C Practice?
+Guest_family: I do. Here you go.
+Doctor: Thank you. It looks like she has a history of this atopic eczema, correct?
+Guest_family: Yes, she has.
+
+Questions:
+[""How long have you been noticing these symptoms?"", ""Have you noticed anything that triggers her symptoms?"", ""Has she experienced any other symptoms?""]
+
+Ranked:
+[2, 3, 1]"
+"Context:
+Doctor: Hello, ma'am. I see you brought your baby daughter in today. Is she a new patient?
+Guest_family: Hello, I am her mother. She is a new patient.
+Doctor: Before we begin, could you verify her age and ethnicity, please?
+Guest_family: She is a little over one years old, and we identify as black.
+Doctor: Thank you. How did you hear about our dermatology office?
+Guest_family: Well, we just came from Tanzania, my birthplace. I have been seeing this odd skin issue with my baby, so I took her to the A B C Practice. After, they sent me here so that you can check her skin problem.
+
+Questions:
+[""What kind of symptoms did your daughter experience that led you to bring her in for this appointment?"", ""Can I please take a look at her skin?"", ""When did her skin condition start to appear?""]
+
+Ranked:
+[3, 1, 2]"
+"Context:
+Patient: So, as you remember I was working with a patient and I accidently jammed that needle inside me.
+Patient: I am coming for regular screening.
+Doctor: Yes, thank you for that, sir. Did they screen patient?
+Patient: Yes, he got negative H I V but positive hep C, they said he is a carrier only, never will show disease symptoms.
+Doctor: Okay.
+Patient: I am scared.
+Doctor: Don't worry, we will do what we can okay. Firstly, let me check if they did some hepatitis B shots on you. Okay looks like you had three shots of hep B and Tetanus is up to date with all others. Antibodies are showing, which is good.
+Patient: They did the tests on February seven two thousand and five. Have you seen my liver test results? And maybe some other?
+Doctor: Yes, I can see that your liver function test were normal at eighteen and hepatitis C and H I V, both were negative. We took these labs on February seventh. You do not have any local signs of infection, right? Except acute intestinal problem?
+Patient: Nothing local, but I do have intestinal squeakiness and vomiting.
+Doctor: Let me look at your exam.
+Patient: Okay.
+
+Questions:
+[""How long have you been experiencing these symptoms?"", ""Have your symptoms changed in any way since your last visit?"", ""Are there any other symptoms that have arisen since your last visit?""]
+
+Ranked:
+[3, 1, 2]"
+"Context:
+Doctor: How are you feeling?
+Patient: I am feeling very weak and shaky.
+
+Questions:
+[""What else can I do for your comfort?"", ""Can you describe your symptoms in more detail?"", ""Have you tried anything to help alleviate your symptoms at home?""]
+
+Ranked:
+[1, 3, 2]"
+"Context:
+Doctor: Hello. How are you doing today?
+Patient: Not fine. I want to see if I can get my cancer treated.
+
+Questions:
+[""Why do you feel it's necessary for me to have a colonoscopy?"", ""What are the potential risks and benefits associated with the colonoscopy procedure?"", ""How long does the colonoscopy take?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: Do you have anyone that lives at home with you?
+Patient: My husband lives at home with me. My daughter and her husband live next door to us. They come and check on us every day.
+
+Questions:
+[""How long have you been feeling tired and short of breath?"", ""Did your symptoms get worse during your morning walk?"", ""Have you been using any medication?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: Lets talk about your family history, does anyone else in your family have cancer?
+Patient: Yes, my mother had metastatic breast cancer and my mother's sister was dealing with bone cancer.
+Doctor: Oh, I am sorry to hear that!
+Doctor: Anything else?
+Patient: Yeah, both sides of my family has diabetes.
+
+Questions:
+[""What were their ages when diagnosed?"", ""Did they have any other health issues at the time?"", ""Did they undergo any treatments?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: Good morning, young man. Is this your mother?
+Patient: Yes, doctor.
+Doctor: Good, nice to mee you. Can you tell me more about your son, please?
+Guest_family: Good morning to you too, doctor. Well, he's about five and a half now, and he broke both the bones in his forearm in September of two thousand seven.
+
+Questions:
+[""What happened to cause your son's injuries?"", ""How did your son's injuries get treated?"", ""Have there been any complications from his injuries?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: Good morning, young man. Is this your mother?
+Patient: Yes, doctor.
+Doctor: Good, nice to mee you. Can you tell me more about your son, please?
+Guest_family: Good morning to you too, doctor. Well, he's about five and a half now, and he broke both the bones in his forearm in September of two thousand seven.
+Doctor: How did the fracture heal? Generally, children heal very well.
+Guest_family: Well, yes, until he also rebroke it about a month ago.
+Doctor: Yes, I see now, there's an ulnar nail pretty prominently visible under the skin, did he have surgery for this?
+Guest_family: Yes, about a month ago now. Should we remove the nail?
+Doctor: We'll have to, even though its early.
+Guest_family: What will we do after the nail is removed?
+Doctor: After that, we'll put him back in a cast for about another three weeks. We'll evaluate him and see how he's doing.
+Guest_family: Okay. What are the risks of infection for this surgery?
+
+Questions:
+[""What kind of activity was he doing when he broke his arm?"", ""How long was he in the cast for his first break?"", ""Did he have any complications during his first break?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: Does she take any medicine?
+Guest_family: Um, let me check. She usually keeps them in her purse. Okay, so here we have three medicine bottles. The labels are all in Spanish, but I can translate for you. She takes one Aspirin a day along with her blood pressure and diabetes medicine.
+
+Questions:
+[""What does she usually do during her free time?"", ""How does she spend her day?"", ""What activities does she normally participate in?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: How is your two week old newborn son doing today?
+Guest_family: He's been doing very well.
+
+Questions:
+[""Can I see him?"", ""What has he been eating?"", ""Does he have any rashes or other skin problems?""]
+
+Ranked:
+[3, 1, 2]"
+"Context:
+Doctor: Are you aware of any medical issues running in your family?
+Patient: Well, my mom died of a stroke. She was in her late fifties. My dad had some heart issues. He also had high blood pressure.
+Doctor: Do you smoke?
+Patient: I was a heavy smoker before many years ago, but then I quit in nineteen ninety.
+
+Questions:
+[""What type of cigarettes did you smoke?"", ""Did you smoke only cigarettes?"", ""Did you smoke a pack a day?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Guest_family: My baby is sick.
+Doctor: Don't worry, I will help you.
+Guest_family: He has had a fever for five days.
+Doctor: How old is he?
+Guest_family: Just eighteen months. He is a Swedish American.
+Doctor: You gave him medication?
+Guest_family: Yes, he finished Amoxil several days ago for sinus infection.
+Doctor: He takes Zyrtec as well right?
+Guest_family: Yes. For allergies.
+Doctor: Okay. Is the fever constant throughout the day or it fluctuates?
+Guest_family: It is higher at night.
+Doctor: Have you checked it?
+Guest_family: Yes, it was one o two point six for two days. I have not checked it since then. But isn't it strange just when I thought to bring him to the doctor, he is better.
+Doctor: Ha, that tends to happen?
+Guest_family: Yeah.
+Doctor: His tooth is coming out.
+Guest_family: No wonder! Maybe that's why he is fussy and drooling so much.
+
+Questions:
+[""What are his symptoms besides fever?"", ""Does he have a history of ear infections?"", ""What kind of treatment has he received so far?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Guest_family: My baby is sick.
+Doctor: Don't worry, I will help you.
+Guest_family: He has had a fever for five days.
+Doctor: How old is he?
+Guest_family: Just eighteen months. He is a Swedish American.
+Doctor: You gave him medication?
+Guest_family: Yes, he finished Amoxil several days ago for sinus infection.
+Doctor: He takes Zyrtec as well right?
+Guest_family: Yes. For allergies.
+Doctor: Okay. Is the fever constant throughout the day or it fluctuates?
+Guest_family: It is higher at night.
+Doctor: Have you checked it?
+Guest_family: Yes, it was one o two point six for two days. I have not checked it since then. But isn't it strange just when I thought to bring him to the doctor, he is better.
+Doctor: Ha, that tends to happen?
+Guest_family: Yeah.
+
+Questions:
+[""What other symptoms does he have?"", ""Have you noticed any rashes on his body?"", ""Does he have a history of ear infections?""]
+
+Ranked:
+[3, 1, 2]"
+"Context:
+Guest_family: My baby is sick.
+Doctor: Don't worry, I will help you.
+Guest_family: He has had a fever for five days.
+Doctor: How old is he?
+Guest_family: Just eighteen months. He is a Swedish American.
+Doctor: You gave him medication?
+Guest_family: Yes, he finished Amoxil several days ago for sinus infection.
+Doctor: He takes Zyrtec as well right?
+Guest_family: Yes. For allergies.
+Doctor: Okay. Is the fever constant throughout the day or it fluctuates?
+Guest_family: It is higher at night.
+Doctor: Have you checked it?
+Guest_family: Yes, it was one o two point six for two days. I have not checked it since then. But isn't it strange just when I thought to bring him to the doctor, he is better.
+
+Questions:
+[""Did you notice if his symptoms got better with a fever reducer?"", ""When was the last time you checked his temperature?"", ""Does he have a rash?""]
+
+Ranked:
+[2, 3, 1]"
+"Context:
+Guest_family: My baby is sick.
+
+Questions:
+[""What are your child's symptoms?"", ""Is your child experiencing fever?"", ""How long has your child been sick?""]
+
+Ranked:
+[3, 1, 2]"
+"Context:
+Doctor: Did you ever have any surgery?
+Patient: Oh yes, around seven or eight years ago.
+Doctor: What was it about?
+Patient: It was about my disc in the back.
+
+Questions:
+[""Have you had any problems with your back since then?"", ""Have you had any other medical problems since then?"", ""Did it have any impact on your daily activities?""]
+
+Ranked:
+[3, 1, 2]"
+"Context:
+Doctor: Good morning, Miss XYZ.
+Patient: Good morning, Doctor.
+Doctor: So, I hear from my nurses you have F C R tendinitis. Have you seen another doctor for this?
+Patient: Yes, I saw Doctor A B C, but what is F C R tendinitis? I don't have his notes with me today.
+Doctor: That stands for flexor carpi radialis, it's a tendon in your forearm that has become inflamed.
+Patient: Okay, thank you for explaining that for me.
+Doctor: You're very welcome, my dear. So, you don't have his reports, but do you remember how this has been treated in the past?
+Patient: So far, I've had two cortisone shots.
+
+Questions:
+[""How long have you had this tendinitis?"", ""Have you experienced any pain in your fingers?"", ""Have you been using heat or ice for pain relief?""]
+
+Ranked:
+[3, 1, 2]"
+"Context:
+Doctor: And does diabetes run in your family?
+Patient: Actually yes, my dad had it. He is no more.
+
+Questions:
+[""Does that mean he passed away due to diabetes complications?"", ""When did he pass away?"", ""How old was he when he passed away?""]
+
+Ranked:
+[1, 2, 3]"
+"Context:
+Patient: I am in pain! You have to help me.
+
+Questions:
+[""Where is the pain?"", ""How long have you been experiencing this pain?"", ""What other symptoms are you experiencing?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: Hello, miss how can I help today? Do you mind stating your age and ethnicity for documentation purposes?
+Patient: Okay. I am a white forty seven year old female. I am concerned about a spider bite on the back left side of my shoulder. I don't remember how it happened, I just noticed a bump near my shoulder two days ago. It is tender and red. I think it is getting bigger. Also, I want to know what the red streaks going up my neck are.
+
+Questions:
+[""What kind of spider do you think gave you the bite?"", ""Have you noticed any other symptoms?"", ""Have you had a fever?""]
+
+Ranked:
+[1, 3, 2]"
+"Context:
+Doctor: Have you ever had surgery in the past?
+Patient: No, not that I know of.
+
+Questions:
+[""What kind of medications do you take?"", ""Have you ever experienced any health problems?"", ""Are you following a healthy diet?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: What is your living status? Do you live alone or with your family?
+Patient: I live with my family.
+
+Questions:
+[""Who else lives with you?"", ""How old are your family members?"", ""Are they all healthy?""]
+
+Ranked:
+[1, 2, 3]"
+"Context:
+Doctor: So, I am looking at your x ray here.
+Patient: Oh yes please tell me if everything is fine.
+
+Questions:
+[""How long have you been experiencing these symptoms?"", ""What have you been taking for pain management?"", ""Have you tried other remedies for this pain?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: How old are you, sir?
+Patient: I'm fifty one years old, doctor.
+Doctor: Welcome to A B C D General Hospital, what seems to be the problem today, sir?
+Patient: I have been diagnosed with, um, let me look at my notes, um, degenerative joint disease of the big toe.
+Doctor: Yes, looking at these x rays, the arthritis is in your M P J of the big toe.
+Patient: Yep, that's right where it hurts.
+Doctor: Has this pain been getting worse?
+Patient: Yes, it just keeps getting worse and worse. Is there anything we can do about this?
+
+Questions:
+[""How long has this pain been going on for?"", ""Have you tried any treatment before?"", ""Can I see your X rays again?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: Hello, miss. How are you doing today?
+Patient: I have so many wrinkles on my face. I'm fifty seven right now, but I want to look younger. Can you help me?
+Doctor: Of course! Before I talk about any procedures with you, I have to ask a few questions. Do you currently smoke?
+Patient: Nope. I never have.
+
+Questions:
+[""What is your current weight and height?"", ""Have you been exposed to sunlight a lot?"", ""Have you been taking any medications recently?""]
+
+Ranked:
+[3, 1, 2]"
+"Context:
+Doctor: Good afternoon, ma'am, I see you're a new patient with us.
+Patient: Yep, this is my first time in.
+Doctor: Well, welcome. Before we get started, how old are you?
+Patient: I'm only thirty eight.
+Doctor: Thank you, what seems to be the problem today.
+Patient: I have pain in my hips, but my right hurts more than my left.
+Doctor: How long have you been dealing with this pain?
+Patient: It's been about two years now on the right, and it just started in the left recently.
+Doctor: Is the pain getting worse?
+Patient: Yeah, it's been getting worse since it started.
+Doctor: Can you show me where the pain is?
+Patient: It's here in the front, like in the groin, and then on the side.
+
+Questions:
+[""What type of pain is it? Is it sharp, dull, aching?"", ""Has anything made the pain better or worse?"", ""Have you noticed any swelling in your hips?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: Good afternoon, ma'am, I see you're a new patient with us.
+Patient: Yep, this is my first time in.
+Doctor: Well, welcome. Before we get started, how old are you?
+Patient: I'm only thirty eight.
+Doctor: Thank you, what seems to be the problem today.
+Patient: I have pain in my hips, but my right hurts more than my left.
+Doctor: How long have you been dealing with this pain?
+Patient: It's been about two years now on the right, and it just started in the left recently.
+Doctor: Is the pain getting worse?
+Patient: Yeah, it's been getting worse since it started.
+
+Questions:
+[""What have you tried so far for pain relief?"", ""Have you lost weight recently?"", ""Have you had similar pain in the past?""]
+
+Ranked:
+[3, 1, 2]"
+"Context:
+Doctor: How old are you, ma'am, twenty?
+Patient: You flatter me doctor, I'm fifty three.
+
+Questions:
+[""What is your occupation?"", ""How long have you been feeling this way?"", ""Are you experiencing any other symptoms?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: Do you have any chronic diseases that you think I should know about?
+Patient: What do you mean by chronic disease?
+
+Questions:
+[""What do you mean by chronic?"", ""What are chronic diseases?"", ""What is a chronic disease?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: We have a fifty eight year old female who was allegedly in her typical healthy state until four o'clock P M on January eighth, nineteen ninety three when she suddenly became blind.
+Guest_clinician: Did she experience any slurred speech or other neurological symptoms?
+Doctor: She complained of tongue numbness and slurred speech in conjunction with vision loss. She explained that her vision improved slightly on her way to the local E R. She noticed severe blurring right before arrival, but the vision problems worsened shortly after.
+Guest_clinician: Is this the first time she had experienced any of these symptoms?
+Doctor: Yes. While being evaluated, she became unresponsive. She wasn't responding to deep noxious stimuli.
+Guest_clinician: Did they transfer her?
+
+Questions:
+[""Was she able to communicate effectively during her examination?"", ""Did her symptoms worsen during transport?"", ""How was her condition when she arrived at the hospital?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: So tell me something, does depression or depression like symptoms run in your family?
+Patient: Hm, not in my immediate family, but I have a second cousin who had depression. He later had a nervous breakdown.
+
+Questions:
+[""Are there any other mental health issues in your family?"", ""Have you been diagnosed with depression?"", ""What type of therapy did your second cousin receive?""]
+
+Ranked:
+[3, 1, 2]"
+"Context:
+Doctor: Has your E coli improved since your last visit, ma'am?
+Patient: Yes, but I had some complications with the medicine.
+Doctor: You were taking the Macrobid, correct?
+Patient: Yes, I took it once a day at night for about seven days.
+Doctor: What complications did you have?
+Patient: Well, I had a skin rash and hives, so I discontinued the medicine.
+Doctor: Since stopping the medicine, have these symptoms gone away?
+Patient: Yes, since I stopped taking the medicine.
+Doctor: Do you have any pain with urination or blood in your urine?
+Patient: No, nothing to report there.
+Doctor: What about fever or chills?
+Patient: No, nothing there either.
+Doctor: Good, how many times a day do you urinate?
+Patient: Well, it's about every two or three hours, and then maybe once at night.
+Doctor: Are you controlling your urine well?
+Patient: Yes, I'm having no problems there. It's getting better under stress too, with the pelvic exercises and rehab.
+
+Questions:
+[""What are your symptoms since stopping the medication?"", ""Have you experienced any other side effects since stopping the medication?"", ""How is your general health since stopping the medication?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: Has your E coli improved since your last visit, ma'am?
+Patient: Yes, but I had some complications with the medicine.
+Doctor: You were taking the Macrobid, correct?
+Patient: Yes, I took it once a day at night for about seven days.
+Doctor: What complications did you have?
+Patient: Well, I had a skin rash and hives, so I discontinued the medicine.
+Doctor: Since stopping the medicine, have these symptoms gone away?
+Patient: Yes, since I stopped taking the medicine.
+Doctor: Do you have any pain with urination or blood in your urine?
+Patient: No, nothing to report there.
+
+Questions:
+[""Have you experienced any other symptoms since stopping the medication?"", ""Did you have any other symptoms before stopping the medication?"", ""Did you notice any changes in your skin rash since stopping the medication?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: Has your E coli improved since your last visit, ma'am?
+Patient: Yes, but I had some complications with the medicine.
+
+Questions:
+[""What type of complications did you have with the medicine?"", ""What other symptoms are you experiencing now?"", ""What are your current symptoms?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: Has your E coli improved since your last visit, ma'am?
+Patient: Yes, but I had some complications with the medicine.
+Doctor: You were taking the Macrobid, correct?
+Patient: Yes, I took it once a day at night for about seven days.
+
+Questions:
+[""How are your symptoms now that you've finished taking the Macrobid?"", ""Did your symptoms improve when you stopped taking Macrobid?"", ""Are your symptoms worse now that you've completed taking Macrobid?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: Tylenol?
+Patient: I take P M for sleeplessness.
+Doctor: Okay. What other medications do you take?
+Patient: Water pill and blood thinner. Then some multivitamins and folic.
+
+Questions:
+[""When did you start taking Tylenol?"", ""How long have you been taking Tylenol?"", ""Are there any side effects you've noticed from taking Tylenol?""]
+
+Ranked:
+[3, 1, 2]"
+"Context:
+Doctor: Hello nurse, who do we have here today?
+Guest_clinician: This is a thirty-seven-year-old, left-handed male. He visited us one month ago for headaches, nausea, and vomiting. His exams from that time showed no evidence of bowel obstruction and he was released home.
+
+Questions:
+[""How does our patient feel today?"", ""Did he have another episode like this?"", ""How long has he been like this?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: Hello nurse, who do we have here today?
+Guest_clinician: This is a thirty-seven-year-old, left-handed male. He visited us one month ago for headaches, nausea, and vomiting. His exams from that time showed no evidence of bowel obstruction and he was released home.
+Doctor: Was there any improvement after your discharge, sir?
+Patient: No, I had the same symptoms on and off after that.
+Doctor: What problems are you facing now?
+Patient: I am seeing things blurred and having difficulty concentrating. My headaches are worse when sitting up. I notice them first thing in the morning.
+Doctor: How would you describe your headaches?
+Patient: They're dull, constant, and it feels like as if my head is wrapped in a tight band.
+Doctor: Your headache starts from which part of your head?
+Patient: It normally starts on the forehead and then it kind of goes to the back. It happens like six times a day. Lying down or putting my head down between my knees helps.
+Doctor: What else do you feel along with your headaches?
+Patient: Like I told the Nurse here before, I get blurry eyesight, nausea and there is vomiting. Any kind of bright light hurts. I'm just afraid of loud sounds.
+Guest_clinician: I discussed with him about any blind spots, positive visual phenomena, weakness, numbness, tingling or double vision or any speech disorder, but he denies everything.
+Doctor: How about your weight?
+Patient: It has been going up and down like for over past three months. I was one hundred and sixty three and then I know it was one hundred and forty eight at a point.
+Guest_clinician: Today his weight is one hundred and fifty four pounds.
+
+Questions:
+[""What kind of medication have you been taking for your headaches?"", ""Has your diet changed since your last visit?"", ""Did your headaches worsen with the change in weather?""]
+
+Ranked:
+[1, 3, 2]"
+"Context:
+Doctor: Hello nurse, who do we have here today?
+Guest_clinician: This is a thirty-seven-year-old, left-handed male. He visited us one month ago for headaches, nausea, and vomiting. His exams from that time showed no evidence of bowel obstruction and he was released home.
+Doctor: Was there any improvement after your discharge, sir?
+Patient: No, I had the same symptoms on and off after that.
+Doctor: What problems are you facing now?
+Patient: I am seeing things blurred and having difficulty concentrating. My headaches are worse when sitting up. I notice them first thing in the morning.
+
+Questions:
+[""How long has this been happening?"", ""Is there anything that seems to worsen these symptoms?"", ""Are there any triggers for your headaches?""]
+
+Ranked:
+[3, 1, 2]"
+"Context:
+Doctor: Good morning, ma'am. Are you married?
+Patient: Good morning, doctor. Yes, my husband and I have been married for a while now.
+Doctor: That's great, do you have stairs in your home?
+Patient: No, we don't. It's a single level home.
+Doctor: Great, well, how are you feeling today?
+Patient: I'm feeling well, doctor. I'm in good health.
+Doctor: What about your husband?
+Patient: He's doing well too, he helps me around the house and with things I need help with.
+Doctor: That's great, do you smoke?
+Patient: Absolutely not.
+Doctor: What about alcohol, do you drink?
+Patient: Yeah, I have the occasional glass of wine with dinner.
+Doctor: Do you exercise?
+Patient: I used to daily and for an hour or an hour and a half.
+
+Questions:
+[""Why are you not doing this anymore?"", ""What caused this change in your routine?"", ""How long have you been feeling like this?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: Good morning, ma'am. Are you married?
+Patient: Good morning, doctor. Yes, my husband and I have been married for a while now.
+Doctor: That's great, do you have stairs in your home?
+Patient: No, we don't. It's a single level home.
+Doctor: Great, well, how are you feeling today?
+Patient: I'm feeling well, doctor. I'm in good health.
+
+Questions:
+[""How often do you and your husband engage in physical activity?"", ""Does anyone in your family have a history of heart disease?"", ""Have you experienced any shortness of breath during physical activity?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: Good morning, ma'am. Are you married?
+Patient: Good morning, doctor. Yes, my husband and I have been married for a while now.
+Doctor: That's great, do you have stairs in your home?
+Patient: No, we don't. It's a single level home.
+Doctor: Great, well, how are you feeling today?
+Patient: I'm feeling well, doctor. I'm in good health.
+Doctor: What about your husband?
+Patient: He's doing well too, he helps me around the house and with things I need help with.
+Doctor: That's great, do you smoke?
+Patient: Absolutely not.
+Doctor: What about alcohol, do you drink?
+Patient: Yeah, I have the occasional glass of wine with dinner.
+Doctor: Do you exercise?
+Patient: I used to daily and for an hour or an hour and a half.
+Doctor: Why aren't you still doing this?
+Patient: Well, I haven't been able to do this since about June of two thousand eight, because of this back pain.
+Doctor: I see. What do you do for a living?
+Patient: Right now, I work full time as a project manager.
+
+Questions:
+[""How long have you been experiencing back pain for?"", ""Have you tried any exercises or treatments for your back pain before?"", ""Are there any other symptoms you're experiencing in addition to your back pain?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: Do you like to travel?
+Patient: I do. In fact, I have been to more than six countries.
+Doctor: Have you travelled outside the country recently?
+Patient: No not recently, it's been couple years now, but I plan to.
+
+Questions:
+[""What kind of places do you plan to visit next time?"", ""Where have you been so far?"", ""Can you tell me more about your last trip?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: Any chest pain or shortness of breath?
+Patient: No chest pain, but I tend to have shortness of breath after any type of exertion.
+
+Questions:
+[""What kind of exertion?"", ""How long have you been experiencing this?"", ""Have you noticed any changes in your breathing?""]
+
+Ranked:
+[2, 3, 1]"
+"Context:
+Doctor: Tell me about your family medical history.
+Patient: My mother died from cancer.
+
+Questions:
+[""Do you have a brother?"", ""What was your mother's age when she passed?"", ""Did your mother have any other health issues before her cancer diagnosis?""]
+
+Ranked:
+[1, 3, 2]"
+"Context:
+Doctor: Do you smoke cigarettes?
+Patient: I did way back in the past when I was young, but not now.
+Doctor: How about alcohol?
+Patient: No, I do not drink.
+
+Questions:
+[""How long ago was that?"", ""How often did you smoke back then?"", ""Did you smoke more than just cigarettes?""]
+
+Ranked:
+[3, 1, 2]"
+"Context:
+Doctor: Good afternoon, and who is this with you today?
+Patient: This is my power of attorney, doctor.
+Doctor: Do you have any major medical conditions that I should know about, ma'am?
+Patient: Well, I'm fifty five, and I've had a stroke.
+
+Questions:
+[""What is your name?"", ""How old are you?"", ""Are there any other medical issues that you'd like me to know about?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: Good afternoon, and who is this with you today?
+Patient: This is my power of attorney, doctor.
+Doctor: Do you have any major medical conditions that I should know about, ma'am?
+Patient: Well, I'm fifty five, and I've had a stroke.
+Doctor: Okay, thank you. So, what brings you in for a visit today?
+Patient: I have the urge to use the bathroom all the time.
+Doctor: Do you ever pee on yourself because of this?
+Patient: I have.
+Doctor: Has this problem been getting worse?
+Patient: Yes, it has been recently.
+Doctor: What medications have you taken for this?
+Patient: I've had VESIcare, but it hasn't improved yet. I'm taking Enablex right now.
+Doctor: Have you had any improvement with that?
+Patient: No, not yet.
+Doctor: Has the nursing home done a voiding diary?
+Patient: No, they haven't done that either.
+Doctor: Are you having any blood in the urine, or pain with urination?
+Patient: No, thankfully I'm not.
+
+Questions:
+[""What other symptoms do you experience?"", ""Are there any other problems with your urination?"", ""Are there any other health concerns you'd like me to address?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: Good afternoon, and who is this with you today?
+Patient: This is my power of attorney, doctor.
+Doctor: Do you have any major medical conditions that I should know about, ma'am?
+Patient: Well, I'm fifty five, and I've had a stroke.
+Doctor: Okay, thank you. So, what brings you in for a visit today?
+Patient: I have the urge to use the bathroom all the time.
+Doctor: Do you ever pee on yourself because of this?
+Patient: I have.
+Doctor: Has this problem been getting worse?
+Patient: Yes, it has been recently.
+Doctor: What medications have you taken for this?
+Patient: I've had VESIcare, but it hasn't improved yet. I'm taking Enablex right now.
+Doctor: Have you had any improvement with that?
+Patient: No, not yet.
+
+Questions:
+[""How long have you been experiencing this problem?"", ""Can I speak directly with your power of attorney?"", ""Is this problem causing any discomfort or pain?""]
+
+Ranked:
+[3, 1, 2]"
+"Context:
+Doctor: Good afternoon, and who is this with you today?
+Patient: This is my power of attorney, doctor.
+Doctor: Do you have any major medical conditions that I should know about, ma'am?
+Patient: Well, I'm fifty five, and I've had a stroke.
+Doctor: Okay, thank you. So, what brings you in for a visit today?
+Patient: I have the urge to use the bathroom all the time.
+Doctor: Do you ever pee on yourself because of this?
+Patient: I have.
+Doctor: Has this problem been getting worse?
+Patient: Yes, it has been recently.
+Doctor: What medications have you taken for this?
+Patient: I've had VESIcare, but it hasn't improved yet. I'm taking Enablex right now.
+Doctor: Have you had any improvement with that?
+Patient: No, not yet.
+Doctor: Has the nursing home done a voiding diary?
+Patient: No, they haven't done that either.
+
+Questions:
+[""What are your symptoms?"", ""How long have you been experiencing these symptoms?"", ""Have your symptoms been constant or have they gotten worse over time?""]
+
+Ranked:
+[3, 1, 2]"
+"Context:
+Doctor: Good afternoon, sir, did you just have your forty first birthday?
+Patient: Yes, I just had it.
+Doctor: Happy birthday! Just to confirm my charts, you identify as White, correct?
+Patient: Yes, doctor. That's correct.
+Doctor: Great, thank you. So, we've treated you for H I V in the past. I have your lab results from your last visit right here.
+Patient: Can you tell me those numbers again, doctor?
+
+Questions:
+[""What were your results for CD4 and CD4 count?"", ""How do you feel physically and mentally?"", ""Have there been any changes in your diet or exercise routine recently?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: Good afternoon, sir, did you just have your forty first birthday?
+Patient: Yes, I just had it.
+Doctor: Happy birthday! Just to confirm my charts, you identify as White, correct?
+Patient: Yes, doctor. That's correct.
+Doctor: Great, thank you. So, we've treated you for H I V in the past. I have your lab results from your last visit right here.
+Patient: Can you tell me those numbers again, doctor?
+Doctor: Absolutely, your C D 4 count was four hundred twenty five, your viral load was less than fifty, and that was in August of two thousand seven.
+Patient: Are those normal?
+Doctor: Both of those are low, actually, but the low viral load is good.
+Patient: Oh, that's good, I guess.
+Doctor: Have you had any medical complications recently?
+Patient: Well, I was in the hospital recently.
+Doctor: What was that for?
+Patient: I had an abscess in my left glute, so I had a surgery to remove and clean it out.
+Doctor: How is the abscess today?
+Patient: It's getting better, I follow up with the surgeon today after this appointment.
+Doctor: Good, what about your medical history?
+Patient: I have high blood pressure and high triglyceride levels.
+Doctor: Okay, thank you. What about newly diagnosed conditions?
+Patient: Well, I got diagnosed with diabetes too.
+Doctor: What symptoms have you been experiencing with your diabetes?
+Patient: Well, I've been peeing a lot, and I've been really thirsty, too.
+Doctor: How have you been treated for this to date?
+Patient: Um, I saw the endocrinologists while I was in the hospital, and they gave me insulin.
+Doctor: Are you still taking the insulin?
+Patient: No, I can't afford to pay for it. So, they gave me Glucophage and, um, glyburide.
+Doctor: Have you been taking these?
+Patient: Yes, exactly as instructed.
+
+Questions:
+[""How is your diet?"", ""How much physical activity are you doing?"", ""What kind of alcohol consumption are you having?""]
+
+Ranked:
+[1, 2, 3]"
+"Context:
+Doctor: Good afternoon, sir, did you just have your forty first birthday?
+Patient: Yes, I just had it.
+Doctor: Happy birthday! Just to confirm my charts, you identify as White, correct?
+Patient: Yes, doctor. That's correct.
+Doctor: Great, thank you. So, we've treated you for H I V in the past. I have your lab results from your last visit right here.
+Patient: Can you tell me those numbers again, doctor?
+Doctor: Absolutely, your C D 4 count was four hundred twenty five, your viral load was less than fifty, and that was in August of two thousand seven.
+Patient: Are those normal?
+Doctor: Both of those are low, actually, but the low viral load is good.
+Patient: Oh, that's good, I guess.
+Doctor: Have you had any medical complications recently?
+Patient: Well, I was in the hospital recently.
+Doctor: What was that for?
+Patient: I had an abscess in my left glute, so I had a surgery to remove and clean it out.
+Doctor: How is the abscess today?
+Patient: It's getting better, I follow up with the surgeon today after this appointment.
+Doctor: Good, what about your medical history?
+Patient: I have high blood pressure and high triglyceride levels.
+
+Questions:
+[""What did they do in your surgery?"", ""Have you been experiencing any other symptoms since your surgery?"", ""Have you been following your diet plan and exercise routine post surgery?""]
+
+Ranked:
+[2, 3, 1]"
+"Context:
+Doctor: Good afternoon, sir, did you just have your forty first birthday?
+Patient: Yes, I just had it.
+Doctor: Happy birthday! Just to confirm my charts, you identify as White, correct?
+Patient: Yes, doctor. That's correct.
+Doctor: Great, thank you. So, we've treated you for H I V in the past. I have your lab results from your last visit right here.
+Patient: Can you tell me those numbers again, doctor?
+Doctor: Absolutely, your C D 4 count was four hundred twenty five, your viral load was less than fifty, and that was in August of two thousand seven.
+Patient: Are those normal?
+Doctor: Both of those are low, actually, but the low viral load is good.
+Patient: Oh, that's good, I guess.
+Doctor: Have you had any medical complications recently?
+Patient: Well, I was in the hospital recently.
+Doctor: What was that for?
+Patient: I had an abscess in my left glute, so I had a surgery to remove and clean it out.
+Doctor: How is the abscess today?
+Patient: It's getting better, I follow up with the surgeon today after this appointment.
+
+Questions:
+[""What kind of medications are you currently taking for H I V?"", ""Can you describe any other symptoms or concerns you've been experiencing?"", ""Have you been experiencing any new onset symptoms since your last visit?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: Do you have any medical conditions in your past that I should know about?
+Patient: No, not that I know of.
+
+Questions:
+[""What medications are you currently taking?"", ""Have you ever had any surgeries?"", ""Are there any family members with chronic conditions?""]
+
+Ranked:
+[3, 1, 2]"
+"Context:
+Doctor: How are you doing today?
+Patient: I am doing okay.
+Doctor: I see in your note that you told the nurse that you have a strong family history of Huntington disease.
+Patient: Yes, I do.
+Doctor: Who in your family had Huntington disease?
+Patient: My mother, grandmother, and my two younger brothers.
+Doctor: How is everyone doing?
+Patient: My grandmother and my mother both died of Huntington disease.
+Doctor: I am so sorry to hear that. What about your brothers?
+Patient: My brothers are doing okay. One of my brothers just started a neurological treatment. I am not sure what it is called.
+
+Questions:
+[""How is your brother's treatment going?"", ""What was your brother diagnosed with?"", ""Is your brother having any side effects from his treatment?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Guest_clinician: Does the patient have any drug allergies?
+
+Questions:
+[""Have they ever had a reaction to any medications?"", ""What medications do they use regularly?"", ""Have they ever been prescribed any medication for a long term?""]
+
+Ranked:
+[1, 3, 2]"
+"Context:
+Doctor: So, let's see what we have here. I have down that you're not allergic to any medications.
+Patient: Correct, no drug allergies.
+
+Questions:
+[""Are you aware that you're overweight?"", ""How would you describe your diet?"", ""Have you been exercising regularly?""]
+
+Ranked:
+[3, 1, 2]"
+"Context:
+Doctor: Are you married?
+Patient: Yes, I have been married for ten years.
+
+Questions:
+[""Patient"", ""Yes"", ""I""]
+
+Ranked:
+[3, 1, 2]"
+"Context:
+Doctor: Hello, sir. What are we doing today?
+Patient: Hello. I am here for a regular physical. Both of my parents died from medical issues, and I want to make sure when I go that it is just from old age.
+Doctor: What did your parents have?
+Patient: My father died from lung cancer and ischemic cardiac disease. He was eighty four.
+
+Questions:
+[""What was your father's smoking and drinking habits like?"", ""Can you tell me more about your father's ischemic cardiac disease diagnosis and treatment?"", ""Did your father experience any other significant medical issues before his death?""]
+
+Ranked:
+[1, 3, 2]"
+"Context:
+Doctor: Hello ma'am. How are you doing today? Can you state your age please?
+Patient: I was born in nineteen forty three and am seventy eight years young. I am doing well other than the hypertension issue.
+Doctor: Luckily, all of the intercranial lab work has come back negative. Are you still on the hydrochlorothiazide and the potassium chloride?
+Patient: Yes, I take twenty five M G of the hydrochlorothiazide once a day. I also take the potassium once a day as well. Both control my blood pressure fine.
+
+Questions:
+[""Have you noticed any changes in your health recently?"", ""How do your feet feel when walking long distances?"", ""Have you experienced any issues with your kidneys recently?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: Remind me, please, when was your last appointment, miss?
+Patient: Um, it was about three months ago.
+
+Questions:
+[""Have there been any changes in your health since our last appointment?"", ""Can you tell me about those changes?"", ""Have there been any new symptoms?""]
+
+Ranked:
+[2, 1, 3]"
+"Context:
+Doctor: Remind me, please, when was your last appointment, miss?
+Patient: Um, it was about three months ago.
+Doctor: How have your diabetes and kidney disease progressed since?
+Patient: Well, I've had a lot of variability in my glucose control too largely, and recent upper and lower respiratory illnesses.
+Doctor: Who treated you for these?
+Patient: I didn't see anyone, the symptoms just kind of improved on their own.
+Doctor: I see, are you still having difficulties with blood sugar management?
+Patient: Yes, my two week average is one hundred ninety one, and it was high this morning.
+Doctor: What do you think caused this?
+Patient: Um, I had problems with my infusion set.
+Doctor: Let's try a correction bolus. Okay, now your blood sugar is quite low. Let's try to get some glucose and crackers into you.
+Patient: Yes, I feel a little better now.
+Doctor: Okay, your blood sugar is back up to over one hundred, which is good.
+Patient: I should be able to manage this on my own.
+
+Questions:
+[""What medications do you currently use for managing your diabetes?"", ""Have you tried alternative therapies for managing your blood sugar levels?"", ""Have you been experiencing any other symptoms or complications related to your diabetes?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: Remind me, please, when was your last appointment, miss?
+Patient: Um, it was about three months ago.
+Doctor: How have your diabetes and kidney disease progressed since?
+Patient: Well, I've had a lot of variability in my glucose control too largely, and recent upper and lower respiratory illnesses.
+Doctor: Who treated you for these?
+Patient: I didn't see anyone, the symptoms just kind of improved on their own.
+Doctor: I see, are you still having difficulties with blood sugar management?
+Patient: Yes, my two week average is one hundred ninety one, and it was high this morning.
+
+Questions:
+[""How long have these symptoms been present?"", ""Do you have any other medical conditions?"", ""What medication are you currently taking?""]
+
+Ranked:
+[1, 2, 3]"
+"Context:
+Doctor: What medications are you taking currently?
+Patient: I take Synthroid for my low thyroid and I used to take Aspirin, but I stopped that about a week ago.
+
+Questions:
+[""What are the symptoms that prompted you to stop taking Aspirin?"", ""Have you experienced any side effects since stopping the medication?"", ""Did your doctor recommend any other medications in place of Aspirin?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: Let me quickly examine your eyes nose and ears.
+Patient: Sure.
+Doctor: Well, eyes look fine no lesion seen on lids, brows or corner of the eyes. Extra ocular movements are intact. Sclerae look great. Pupils look fine. Can you open your eyes wide for me I am going to check with this instrument. Everything looks fine here.
+Patient: Okay.
+Doctor: I don't see any swelling or glaucoma. No cataracts. Let me check your ears, Looks perfectly normal. Ears normal set and shape with normal hearing and tympanic membrane. No hearing problem or tinnitus or anything?
+Patient: Nope.
+
+Questions:
+[""How often do you experience tinnitus?"", ""Have you had any ear infections in the past?"", ""Have you been exposed to loud noises recently?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: Let me quickly examine your eyes nose and ears.
+Patient: Sure.
+Doctor: Well, eyes look fine no lesion seen on lids, brows or corner of the eyes. Extra ocular movements are intact. Sclerae look great. Pupils look fine. Can you open your eyes wide for me I am going to check with this instrument. Everything looks fine here.
+Patient: Okay.
+Doctor: I don't see any swelling or glaucoma. No cataracts. Let me check your ears, Looks perfectly normal. Ears normal set and shape with normal hearing and tympanic membrane. No hearing problem or tinnitus or anything?
+Patient: Nope.
+Doctor: No cough or cold or sinus congestion, right?
+Patient: No.
+Doctor: Open your mouth for me, stick your tongue out, say ""ahhhhh"" for me. Everything looks normal here.
+Doctor: Do you regularly visit your dentist?
+Patient: Yes, I recently got some dental work done.
+
+Questions:
+[""How often do you visit the dentist?"", ""What dental work did you recently get done?"", ""Have you experienced any problems with your teeth since having that dental work done?""]
+
+Ranked:
+[1, 3, 2]"
+"Context:
+Doctor: When did you stop using all the drugs, sir?
+Patient: I think I was twenty five.
+Doctor: So, everything is clean after that? No more accidents?
+Patient: I think I had a relapse once. It has been like more than 10 years. I have been clear since then.
+
+Questions:
+[""When was your last relapse?"", ""How long ago was it when you relapsed?"", ""How long have you been clean since your last relapse?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+Doctor: How has she been since the last time we saw you both?
+Guest_family: She has been in good spirits. She has so much energy. She has had some constipation issues lately.
+
+Questions:
+[""What have you tried so far to help with the constipation issues?"", ""Has she tried using a suppository?"", ""Have you considered fiber supplements such as Metamucil or natural sources like psyllium husk powder?""]
+
+Ranked:
+[3, 1, 2]"
+"Context:
+Doctor: Okay, let me ask you few questions.
+Patient: Sure.
+Doctor: Are you married?
+Patient: Yes I am.
+Doctor: So, you live with your wife, sir?
+Patient: Yes, that's right.
+Doctor: And do you smoke?
+Patient: No I don't.
+
+Questions:
+[""What does your wife do for a living?"", ""How long have you been married?"", ""What is your wife's health like?""]
+
+Ranked:
+[3, 2, 1]"
+"Context:
+""Doctor: Are you married?
+Patient: Yeah, I'm divorced.
+
+Questions:
+[""What caused your divorce?"", ""How long have you been divorced for?"", ""Did you have kids with your ex spouse?""]
+
+Ranked:
+[3, 1, 2]"
+"Context:
+Doctor: Hi there, I love that dress, very pretty!
+Patient: Thank you for complementing a seventy-two-year-old patient.
+Doctor: No, I mean it, seriously. Okay, so you were admitted here in May two thousand nine. You have a history of hypertension, and on June eighteenth two thousand nine you had bad abdominal pain diarrhea and cramps.
+Patient: Yes, they told me I might have C Diff? They did a CT of my abdomen and that is when they thought I got the infection.
+Doctor: Yes, it showed evidence of diffuse colitis, so I believe they gave you IV antibiotics?
+Patient: Yes they did.
+
+Questions:
+[""What was your experience like with these antibiotics?"", ""Have you noticed any other symptoms since your treatment?"", ""Did any of the medications cause any side effects?""]
+
+Ranked:
+[1, 3, 2]"
+"Context:
+Doctor: Any uncomfortable feeling in the back of your throat, like excess mucous accumulation or something like that?
+Patient: Uh, no. I don't think so.
+
+Questions:
+[""Have you been experiencing a change in your voice or throat pain?"", ""Have you noticed any unusual swelling in your neck?"", ""Have you been coughing up anything that looks like blood?""]
+
+Ranked:
+[3, 1, 2]"
+"Context:
+Doctor: It's good to see you sitting up in the bed, ma'am.
+Patient: I've been walking around without any difficulty too.
+Doctor: Have you eaten anything yet?
+Patient: No, I've remained, um, NPO, just like you told me.
+
+Questions:
+[""How are you feeling today?"", ""Have you had any abdominal pain?"", ""How has your appetite been?""]
+
+Ranked:
+[1, 3, 2]"
+"Context:
+Doctor: Are there any major medical conditions that you know of that I should be aware of?
+Patient: What do you mean by that, doctor?
+
+Questions:
+[""What do you mean by that?"", ""I'm sorry but I'm confused by your question"", ""Could you clarify your question""]
+
+Ranked:
+[1, 3, 2]"
